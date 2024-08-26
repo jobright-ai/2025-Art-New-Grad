@@ -1,5 +1,5 @@
 
-# Daily Intern Jobs in Arts%20and%20Entertainment by Jobright.ai
+# Daily Intern Jobs in Arts and Entertainment by Jobright.ai
 
 
 
@@ -357,9 +357,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c9a12cabe138b664462cbc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, IN | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c9a12cabe138b664462cc5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, KY | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c9a12cabe138b664462cc8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remington, IN | On Site | Aug 23 |
+| ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c9a12cabe138b664462cd0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ottawa Lake, MI | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c9a12cabe138b664462ccc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | North Platte, NE | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c9a12cabe138b664462cce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hebron, OH | On Site | Aug 23 |
-| ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c9a12cabe138b664462cd0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ottawa Lake, MI | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c9a12cabe138b664462cca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hagerstown, MD | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c9a12cabe138b664462cd3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hurricane Mills, TN | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c9a12cabe138b664462cd2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austinburg, OH | On Site | Aug 23 |
@@ -397,10 +397,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a100?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clint, TX | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a105?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Staunton, VA | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a10b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Moriarty, NM | On Site | Aug 23 |
-| ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a109?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bismarck, ND | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a107?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edmond, OK | On Site | Aug 23 |
-| ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a10f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cotulla, TX | On Site | Aug 23 |
+| ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a109?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bismarck, ND | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a10e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amarillo, TX | On Site | Aug 23 |
+| ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a10f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cotulla, TX | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a118?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tonopah, AZ | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a112?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gretna, NE | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a114?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Providence Forge, VA | On Site | Aug 23 |
@@ -409,8 +409,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a11c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Monteagle, TN | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a119?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lebanon, IN | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a11f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salina, KS | On Site | Aug 23 |
-| ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a11d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheyenne, WY | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a11e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Effingham, IL | On Site | Aug 23 |
+| ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a11d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheyenne, WY | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a125?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kermit, TX | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a126?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, FL | On Site | Aug 23 |
 | ↳ | **[Deli Production Team Member](https://jobright-internal.com/jobs/info/66c98ef9e2e4a82cc851a129?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | Aug 23 |
