@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Bench Jeweler - Signet Jewelers - St. Clair Square - St. Louis, MO](https://jobright.ai/jobs/info/674b6e7414b60a10c266aae8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairview Heights, IL | On Site | Nov 30 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Apprentice Jeweler - Signet Jewelers - Mall of Louisiana - Baton Rouge, LA](https://jobright.ai/jobs/info/674bc1a7f5f91ac4c70346d1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baton Rouge, LA | On Site | Nov 30 |
+| ↳ | **[Apprentice Jeweler - Signet Jewelers - Sierra Commons - Palmdale, CA](https://jobright.ai/jobs/info/674bc1a7f5f91ac4c70346d2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Palmdale, CA | On Site | Nov 30 |
+| ↳ | **[Bench Jeweler - Signet Jewelers - St. Clair Square - St. Louis, MO](https://jobright.ai/jobs/info/674b6e7414b60a10c266aae8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairview Heights, IL | On Site | Nov 30 |
 | **[Brown & Riding](https://www.brownandriding.com/)** | **[Production Assistant - Wholesale Insurance Brokerage - Casualty](https://jobright.ai/jobs/info/674b43486e99f8803475704c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Nov 30 |
 | **[Cintas](http://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - $15+/Hour](https://jobright.ai/jobs/info/672e1b8270ef586e67d6b482?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Rapids, MI | On Site | Nov 30 |
 | ↳ | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/66da12fac604f8dfcf372142?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rochester, NY | On Site | Nov 30 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[California State University, Long Beach](http://www.csulb.edu/)** | **[California State University System is hiring: Media Production Specialist - Hour](https://jobright.ai/jobs/info/674a9db2194d860c7b5c7a9f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Long Beach, CA | On Site | Nov 29 |
 | **[Quilt Software](https://quiltsoftware.com)** | **[Quilt Software LLC is hiring: Video Editor in Charlotte](https://jobright.ai/jobs/info/674b353e86614fa7de572bbd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC | Remote | Nov 29 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Line Cook - Wolf - NYC Flagship](https://jobright.ai/jobs/info/674a8a52069887f05b7791ba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Nov 29 |
-| **[Quilt Software](https://quiltsoftware.com)** | **[Copy Editor Job at Quilt Software LLC in Charlotte](https://jobright.ai/jobs/info/674a9c140d45b364505a0531?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC | Remote | Nov 29 |
-| ↳ | **[Video Editor Job at Quilt Software LLC in Charlotte](https://jobright.ai/jobs/info/674a9c140d45b364505a08b8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC | Remote | Nov 29 |
+| **[Quilt Software](https://quiltsoftware.com)** | **[Video Editor Job at Quilt Software LLC in Charlotte](https://jobright.ai/jobs/info/674a9c140d45b364505a08b8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC | Remote | Nov 29 |
+| ↳ | **[Copy Editor Job at Quilt Software LLC in Charlotte](https://jobright.ai/jobs/info/674a9c140d45b364505a0587?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC | Remote | Nov 29 |
 | **[Concept Arts Inc.](https://www.conceptarts.com/)** | **[Freelance - Community Manager Job at Concept Arts in Los Angeles](https://jobright.ai/jobs/info/674a9c140d45b364505a0956?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Nov 29 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Hachette Book Group is hiring: Publishing Assistant, James Patterson Books in Ne](https://jobright.ai/jobs/info/674a9c140d45b364505a0743?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 29 |
 | **[The Heritage Foundation](http://www.heritage.org/)** | **[The Heritage Foundation is hiring: Editorial Fellow, Media and Public Relations](https://jobright.ai/jobs/info/674a98051851a1057d4ed2a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Nov 29 |
@@ -85,8 +87,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[9fin is hiring: Reporter in New York](https://jobright.ai/jobs/info/674a8b703694fba68d983f15?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 29 |
 | **[CorePower Yoga](http://corepoweryoga.com)** | **[Studio Manager - DC Proper Job at CorePower Yoga in Washington](https://jobright.ai/jobs/info/674a9109e2cd2f8515085cde?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Nov 29 |
 | **[Verbit.ai](https://verbit.ai)** | **[Offline Captioner, Post Production](https://jobright.ai/jobs/info/674a7930fd9038520cf1d0aa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Nov 29 |
-| **[Walmart Canada](https://www.walmartcanada.ca/)** | **[(USA) Cake Decorator -PT](https://jobright.ai/jobs/info/674a32e320c346fcc96f1144?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scarborough, ME | On Site | Nov 29 |
-| ↳ | **[(USA) Cake Decorator -FT](https://jobright.ai/jobs/info/674a71186f990111864b0e6b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scarborough, ME | On Site | Nov 29 |
+| **[Walmart Canada](https://www.walmartcanada.ca/)** | **[(USA) Cake Decorator -FT](https://jobright.ai/jobs/info/674a71186f990111864b0e6b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scarborough, ME | On Site | Nov 29 |
+| ↳ | **[(USA) Cake Decorator -PT](https://jobright.ai/jobs/info/674a32e320c346fcc96f1144?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scarborough, ME | On Site | Nov 29 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/674a142afe2b42a49243bc21?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | The Colony, TX | On Site | Nov 29 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Freelance Production Assistant](https://jobright.ai/jobs/info/6718360462c8e6633ed02b2c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New Providence, NJ | On Site | Nov 29 |
 | **[Springer Nature Group](https://group.springernature.com/)** | **[Associate or Senior Editor, Nature Communications (public health, epidemiology)](https://jobright.ai/jobs/info/674a1145405081eba1b55d41?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Nov 29 |
@@ -111,73 +113,73 @@ For a complete list, click the following sortable link below:
 | **[The Dolben Company, Inc.](http://www.dolben.com/)** | **[Groundskeeper](https://jobright.ai/jobs/info/67487586c91b0118d1a5f637?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Odenton, MD | On Site | Nov 28 |
 | **[The AZEK Company](https://azekco.com/)** | **[Production Assistant - Keyser Ave Facility Nights 6PM to 6AM 4x4](https://jobright.ai/jobs/info/670ee377eea26065611d1219?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scranton, PA | On Site | Nov 28 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/672c44fa693b641c9e3f8406?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Madison, WI | On Site | Nov 28 |
-| **[TEGNA](http://www.tegna.com)** | **[News Producer/Multi-Skilled Journalist](https://jobright.ai/jobs/info/67484e70f03fcc58f4246991?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | WGRZ-TV Buffalo | On Site | Nov 28 |
-| ↳ | **[Producer](https://jobright.ai/jobs/info/67484e70f03fcc58f42469a1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KXTV-TV Sacramento | On Site | Nov 28 |
-| ↳ | **[Producer](https://jobright.ai/jobs/info/67484e70f03fcc58f4246981?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KREM KSKN-TV Spokane | On Site | Nov 28 |
-| ↳ | **[Producer](https://jobright.ai/jobs/info/67484e70f03fcc58f4246983?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KXTV-TV Sacramento | On Site | Nov 28 |
+| **[TEGNA](http://www.tegna.com)** | **[Producer](https://jobright.ai/jobs/info/67484e70f03fcc58f4246983?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KXTV-TV Sacramento | On Site | Nov 28 |
 | ↳ | **[Producer-in-Residence (PIR) / Multiple Locations](https://jobright.ai/jobs/info/67484e70f03fcc58f424699b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tysons, Virginia, United States | On Site | Nov 28 |
+| ↳ | **[Producer](https://jobright.ai/jobs/info/67484e70f03fcc58f4246989?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KREM KSKN-TV Spokane | On Site | Nov 28 |
 | ↳ | **[Weekend Morning Producer](https://jobright.ai/jobs/info/67484e70f03fcc58f4246999?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KUSA KTVD-TV Denver | On Site | Nov 28 |
+| ↳ | **[News Producer/Multi-Skilled Journalist](https://jobright.ai/jobs/info/67484e70f03fcc58f4246991?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | WGRZ-TV Buffalo | On Site | Nov 28 |
+| ↳ | **[Producer](https://jobright.ai/jobs/info/67484e70f03fcc58f42469a1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KXTV-TV Sacramento | On Site | Nov 28 |
 | **[DIG.](https://www.diginn.com/)** | **[Sous Chef, NYC](https://jobright.ai/jobs/info/6748463b852c8e2478442423?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | ↳ | **[Sous Chef, New York City](https://jobright.ai/jobs/info/6748463b852c8e2478442411?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
 | ↳ | **[Grill Cook, NYC](https://jobright.ai/jobs/info/6748463b852c8e247844240c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
 | ↳ | **[Grill Cook, Boston](https://jobright.ai/jobs/info/6748463b852c8e247844242f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, MA | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Seaport](https://jobright.ai/jobs/info/6748463b852c8e247844248f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
-| ↳ | **[Sous Chefs, Pine Street](https://jobright.ai/jobs/info/6748463b852c8e247844246f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Harvard Square](https://jobright.ai/jobs/info/6748463b852c8e2478442469?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Brookfield Place](https://jobright.ai/jobs/info/6748463b852c8e2478442465?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Bethesda](https://jobright.ai/jobs/info/6748463b852c8e2478442460?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda, Maryland | On Site | Nov 28 |
+| ↳ | **[Sous Chef, NoHo](https://jobright.ai/jobs/info/6748463b852c8e2478442483?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Rye Brook](https://jobright.ai/jobs/info/6748463b852c8e2478442492?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rye Brook, NY | On Site | Nov 28 |
 | ↳ | **[Sous Chef, Kendall Square](https://jobright.ai/jobs/info/6748463b852c8e247844245f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, MA | On Site | Nov 28 |
 | ↳ | **[Sous Chef, DIG on Bleecker](https://jobright.ai/jobs/info/6748463b852c8e2478442479?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, City Point](https://jobright.ai/jobs/info/6748463b852c8e247844247f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, New York | On Site | Nov 28 |
 | ↳ | **[Sous Chef, Lenox Hill](https://jobright.ai/jobs/info/6748463b852c8e2478442462?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
 | ↳ | **[Sous Chef, Rittenhouse Square](https://jobright.ai/jobs/info/6748463b852c8e2478442454?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, Pennsylvania | On Site | Nov 28 |
+| ↳ | **[Sous Chef, One Loudoun](https://jobright.ai/jobs/info/6748463b852c8e247844245b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ashburn,VA | On Site | Nov 28 |
+| ↳ | **[Sous Chef, 52nd & Lex](https://jobright.ai/jobs/info/6748463b852c8e2478442466?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
 | ↳ | **[Sous Chef, University City](https://jobright.ai/jobs/info/6748463b852c8e2478442473?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, Pennsylvania | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Georgetown](https://jobright.ai/jobs/info/6748463b852c8e247844246b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington D.C. | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Upper West Side](https://jobright.ai/jobs/info/6748463b852c8e247844246c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Upper East Side](https://jobright.ai/jobs/info/6748463b852c8e247844246e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Madison Square Park](https://jobright.ai/jobs/info/6748463b852c8e2478442461?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Downtown Crossing](https://jobright.ai/jobs/info/6748463b852c8e2478442495?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
-| ↳ | **[Sous Chef, DIG on 4th](https://jobright.ai/jobs/info/6748463b852c8e247844245d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Murray Hill](https://jobright.ai/jobs/info/6748463b852c8e2478442472?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Theater District](https://jobright.ai/jobs/info/6748463b852c8e2478442471?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, NoHo](https://jobright.ai/jobs/info/6748463b852c8e2478442483?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Williamsburg](https://jobright.ai/jobs/info/6748463b852c8e247844247c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Chelsea](https://jobright.ai/jobs/info/6748463b852c8e2478442470?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Back Bay](https://jobright.ai/jobs/info/6748463b852c8e2478442456?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
-| ↳ | **[Sous Chef, 40th & Madison](https://jobright.ai/jobs/info/6748463b852c8e2478442474?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, 57th & Lex](https://jobright.ai/jobs/info/6748463b852c8e247844245c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, SoHo](https://jobright.ai/jobs/info/6748463b852c8e2478442496?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
 | ↳ | **[Sous Chef, Garment District](https://jobright.ai/jobs/info/6748463b852c8e2478442499?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | On Site | Nov 28 |
 | ↳ | **[Sous Chef, Columbia University](https://jobright.ai/jobs/info/6748463b852c8e24784424af?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, 52nd & Lex](https://jobright.ai/jobs/info/6748463b852c8e2478442466?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Sous Chef, Rye Brook](https://jobright.ai/jobs/info/6748463b852c8e2478442492?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rye Brook, NY | On Site | Nov 28 |
-| ↳ | **[Sous Chef, One Loudoun](https://jobright.ai/jobs/info/6748463b852c8e247844245b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ashburn,VA | On Site | Nov 28 |
-| ↳ | **[Line Cook, Upper West Side](https://jobright.ai/jobs/info/6748463b852c8e2478442494?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Line Cook, Murray Hill](https://jobright.ai/jobs/info/6748463b852c8e2478442482?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Line Cook, Upper East Side](https://jobright.ai/jobs/info/6748463b852c8e247844249b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Line Cook, Madison Square Park](https://jobright.ai/jobs/info/6748463b852c8e2478442485?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Line Cook, Lenox Hill](https://jobright.ai/jobs/info/6748463b852c8e2478442476?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Line Cook, Columbia University](https://jobright.ai/jobs/info/6748463b852c8e247844247a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Line Cook, Brookfield Place](https://jobright.ai/jobs/info/6748463b852c8e247844248a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, SoHo](https://jobright.ai/jobs/info/6748463b852c8e2478442496?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Brookfield Place](https://jobright.ai/jobs/info/6748463b852c8e2478442465?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Madison Square Park](https://jobright.ai/jobs/info/6748463b852c8e2478442461?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, City Point](https://jobright.ai/jobs/info/6748463b852c8e247844247f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Murray Hill](https://jobright.ai/jobs/info/6748463b852c8e2478442472?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Upper West Side](https://jobright.ai/jobs/info/6748463b852c8e247844246c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Bethesda](https://jobright.ai/jobs/info/6748463b852c8e2478442460?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda, Maryland | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Williamsburg](https://jobright.ai/jobs/info/6748463b852c8e247844247c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, 40th & Madison](https://jobright.ai/jobs/info/6748463b852c8e2478442474?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Upper East Side](https://jobright.ai/jobs/info/6748463b852c8e247844246e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chefs, Pine Street](https://jobright.ai/jobs/info/6748463b852c8e247844246f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Theater District](https://jobright.ai/jobs/info/6748463b852c8e2478442471?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Seaport](https://jobright.ai/jobs/info/6748463b852c8e247844248f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
+| ↳ | **[Sous Chef, DIG on 4th](https://jobright.ai/jobs/info/6748463b852c8e247844245d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Harvard Square](https://jobright.ai/jobs/info/6748463b852c8e2478442469?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
+| ↳ | **[Sous Chef, 57th & Lex](https://jobright.ai/jobs/info/6748463b852c8e247844245c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Chelsea](https://jobright.ai/jobs/info/6748463b852c8e2478442470?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Back Bay](https://jobright.ai/jobs/info/6748463b852c8e2478442456?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Georgetown](https://jobright.ai/jobs/info/6748463b852c8e247844246b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington D.C. | On Site | Nov 28 |
+| ↳ | **[Sous Chef, Downtown Crossing](https://jobright.ai/jobs/info/6748463b852c8e2478442495?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
 | ↳ | **[Line Cook, Bethesda](https://jobright.ai/jobs/info/6748463b852c8e247844248e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda, Maryland | On Site | Nov 28 |
 | ↳ | **[Line Cook, Chelsea](https://jobright.ai/jobs/info/6748463b852c8e24784424a2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
 | ↳ | **[Line Cook, Theater District](https://jobright.ai/jobs/info/6748463b852c8e24784424ab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
 | ↳ | **[Line Cook, Garment District](https://jobright.ai/jobs/info/6748463b852c8e2478442478?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Line Cook, City Point ](https://jobright.ai/jobs/info/6748463b852c8e2478442481?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, New York | On Site | Nov 28 |
-| ↳ | **[Line Cook, Williamsburg](https://jobright.ai/jobs/info/6748463b852c8e2478442490?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, New York | On Site | Nov 28 |
+| ↳ | **[Line Cook, Columbia University](https://jobright.ai/jobs/info/6748463b852c8e247844247a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
 | ↳ | **[Line Cook, Rye Brook](https://jobright.ai/jobs/info/6748463b852c8e247844247e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rye Brook, New York | On Site | Nov 28 |
-| ↳ | **[Grill Cook, Madison Square Park](https://jobright.ai/jobs/info/6748463b852c8e24784424da?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
+| ↳ | **[Line Cook, Williamsburg](https://jobright.ai/jobs/info/6748463b852c8e2478442490?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, New York | On Site | Nov 28 |
+| ↳ | **[Line Cook, Brookfield Place](https://jobright.ai/jobs/info/6748463b852c8e247844248a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Line Cook, Upper East Side](https://jobright.ai/jobs/info/6748463b852c8e247844249b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
+| ↳ | **[Line Cook, Murray Hill](https://jobright.ai/jobs/info/6748463b852c8e2478442482?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
+| ↳ | **[Line Cook, City Point ](https://jobright.ai/jobs/info/6748463b852c8e2478442481?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, New York | On Site | Nov 28 |
+| ↳ | **[Line Cook, Madison Square Park](https://jobright.ai/jobs/info/6748463b852c8e2478442485?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
+| ↳ | **[Line Cook, Lenox Hill](https://jobright.ai/jobs/info/6748463b852c8e2478442476?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
+| ↳ | **[Line Cook, Upper West Side](https://jobright.ai/jobs/info/6748463b852c8e2478442494?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Garde Manger, Harvard Square](https://jobright.ai/jobs/info/6748463b852c8e24784424b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
+| ↳ | **[Grill Cook, Upper West Side](https://jobright.ai/jobs/info/6748463b852c8e24784424a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Grill Cook, Brookfield Place](https://jobright.ai/jobs/info/6748463b852c8e24784424cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
+| ↳ | **[Grill Cook, Columbia University](https://jobright.ai/jobs/info/6748463b852c8e24784424bc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
 | ↳ | **[Grill Cook, Rye Brook](https://jobright.ai/jobs/info/6748463b852c8e24784424db?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rye Brook, NY | On Site | Nov 28 |
+| ↳ | **[Grill Cook, Madison Square Park](https://jobright.ai/jobs/info/6748463b852c8e24784424da?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
+| ↳ | **[Grill Cook, Harvard Square](https://jobright.ai/jobs/info/6748463b852c8e247844249e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
 | ↳ | **[Grill Cook, University City ](https://jobright.ai/jobs/info/6748463b852c8e24784424c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, Pennsylvania | On Site | Nov 28 |
 | ↳ | **[Grill Cook, Upper East Side](https://jobright.ai/jobs/info/6748463b852c8e24784424dc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Grill Cook, Lenox Hill](https://jobright.ai/jobs/info/6748463b852c8e24784424d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
 | ↳ | **[Grill Cook, Bethesda](https://jobright.ai/jobs/info/6748463b852c8e24784424a5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethesda, Maryland | On Site | Nov 28 |
-| ↳ | **[Grill Cook, Brookfield Place](https://jobright.ai/jobs/info/6748463b852c8e24784424cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
 | ↳ | **[Grill Cook, Williamsburg](https://jobright.ai/jobs/info/6748463b852c8e24784424c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, New York | On Site | Nov 28 |
-| ↳ | **[Grill Cook, Upper West Side](https://jobright.ai/jobs/info/6748463b852c8e24784424a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, New York | On Site | Nov 28 |
-| ↳ | **[Grill Cook, Columbia University](https://jobright.ai/jobs/info/6748463b852c8e24784424bc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
-| ↳ | **[Grill Cook, Harvard Square](https://jobright.ai/jobs/info/6748463b852c8e247844249e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
-| ↳ | **[Garde Manger, Harvard Square](https://jobright.ai/jobs/info/6748463b852c8e24784424b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, Massachusetts | On Site | Nov 28 |
+| ↳ | **[Grill Cook, Lenox Hill](https://jobright.ai/jobs/info/6748463b852c8e24784424d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, New York | On Site | Nov 28 |
 | **[Fortune](http://fortune.com)** | **[Fortune Newsroom Fellowships (January 2024):](https://jobright.ai/jobs/info/6748463b852c8e247844291c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | **[Financial Times](http://ft.com)** | **[Reporter, BoardIQ](https://jobright.ai/jobs/info/67484809852c8e247844293b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Nov 28 |
 | **[Crooked Media](https://crooked.com/)** | **[Reporting Fellow, Climate ](https://jobright.ai/jobs/info/67484809852c8e2478442ae9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, D.C. | On Site | Nov 28 |
@@ -185,11 +187,11 @@ For a complete list, click the following sortable link below:
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Fellowship](https://jobright.ai/jobs/info/67484809852c8e2478442c13?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City, NJ | Hybrid | Nov 28 |
 | **[NVE Experience Agency](http://experiencenve.com)** | **[Freelance Event Production Coordinator](https://jobright.ai/jobs/info/67484809852c8e247844300c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Nov 28 |
 | **[Madison Square Garden Entertainment Corp.](https://www.msgentertainment.com/)** | **[Standard Cook ](https://jobright.ai/jobs/info/674839f85e136383e79c8ca2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, NY | On Site | Nov 28 |
-| **[The New York Times](https://www.nytco.com/)** | **[Fellow, Reporter Video](https://jobright.ai/jobs/info/674839f85e136383e79c8c74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 28 |
+| **[The New York Times](https://www.nytco.com/)** | **[Fellow, Upshot](https://jobright.ai/jobs/info/674839f85e136383e79c8c7a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 28 |
 | ↳ | **[Reporting Fellow](https://jobright.ai/jobs/info/674839f85e136383e79c8c6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Nov 28 |
-| ↳ | **[Fellow, Upshot](https://jobright.ai/jobs/info/674839f85e136383e79c8c7a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 28 |
-| ↳ | **[Fellow, News Video](https://jobright.ai/jobs/info/674839f85e136383e79c8c86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 28 |
+| ↳ | **[Fellow, Reporter Video](https://jobright.ai/jobs/info/674839f85e136383e79c8c74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 28 |
 | ↳ | **[Fellow, Opinion Editing](https://jobright.ai/jobs/info/674839f85e136383e79c8c73?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 28 |
+| ↳ | **[Fellow, News Video](https://jobright.ai/jobs/info/674839f85e136383e79c8c86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 28 |
 | ↳ | **[Fellow, Audience](https://jobright.ai/jobs/info/674839f85e136383e79c8c83?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 28 |
 | ↳ | **[Fellow, A.I. Initiatives](https://jobright.ai/jobs/info/674839f85e136383e79c8c72?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Nov 28 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Coordinator, Sync Licensing](https://jobright.ai/jobs/info/674848df852c8e247844314d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Nov 28 |
@@ -197,8 +199,8 @@ For a complete list, click the following sortable link below:
 | **[Warby Parker](http://www.warbyparker.com)** | **[Licensed Optician - New York City HQ and Showroom](https://jobright.ai/jobs/info/67483b1e49c9e19e974c1451?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | ↳ | **[Licensed Optician - Hudson Yards](https://jobright.ai/jobs/info/67483b1e49c9e19e974c146b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Nov 28 |
 | ↳ | **[Apprentice Optician - Queens Center](https://jobright.ai/jobs/info/67483b1e49c9e19e974c1502?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elmhurst, NY | On Site | Nov 28 |
-| ↳ | **[Apprentice Optician - Cherry Creek](https://jobright.ai/jobs/info/67483b1e49c9e19e974c150f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, CO | On Site | Nov 28 |
 | ↳ | **[Apprentice Optician - Court Square](https://jobright.ai/jobs/info/67483b1e49c9e19e974c150c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Long Island City, NY | On Site | Nov 28 |
+| ↳ | **[Apprentice Optician - Cherry Creek](https://jobright.ai/jobs/info/67483b1e49c9e19e974c150f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, CO | On Site | Nov 28 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Coordinator, Sync Licensing](https://jobright.ai/jobs/info/67497caff83b2f73ede9dba3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Nov 27 |
 | **[Quilt Software](https://quiltsoftware.com)** | **[Copy Editor](https://jobright.ai/jobs/info/67411eb73c4212b1ca9bd401?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Nov 27 |
 | **[San Francisco University High School](http://www.sfuhs.org/)** | **[Choreographer](https://jobright.ai/jobs/info/6748256e94759c784332a5f6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Nov 27 |
@@ -338,6 +340,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[LA Bureau Production Associate - ABC News](https://jobright.ai/jobs/info/674357488ebc32d2ae7b7e59?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Nov 24 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/66994a8b4eef6966d6c9fee4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spartanburg, SC | On Site | Nov 24 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant-1](https://jobright.ai/jobs/info/67245327fa4bf50ada642e42?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake George, NY | On Site | Nov 24 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6726170744383f2b1ff51b0c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbia, SC | On Site | Nov 24 |
-| **[Walmart Canada](https://www.walmartcanada.ca/)** | **[Cake Decorator](https://jobright.ai/jobs/info/6748d1a1e94f04afe18479da?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | (USA) OH COLUMBUS 06307 SAM'S CLUB | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
