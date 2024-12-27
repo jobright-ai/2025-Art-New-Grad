@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chautauqua Institution](https://www.chq.org)** | **[Artist Liaison (Performing & Visual Arts)/Seasonal Employment](https://jobright.ai/jobs/info/676e1939ce6777f4b6dc6edc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chautauqua, NY | On Site | Dec 26 |
 | **[Aston Carter](https://www.astoncarter.com/en)** | **[Translator](https://jobright.ai/jobs/info/676dea7c0c83c58bd3e50755?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bardstown, KY | On Site | Dec 26 |
 | **[The New York Times](https://www.nytco.com/)** | **[Writer, The Morning](https://jobright.ai/jobs/info/676dec51873954433360cd4a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Dec 26 |
 | **[Country Meadows Retirement Communities](https://www.countrymeadows.com/)** | **[Activities Assistant](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe443?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bethlehem, PA | On Site | Dec 26 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/676dca3cc1fc94f623f710ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Franklin, KY | On Site | Dec 26 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/676dc261b4bb3a362123d10a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albuquerque, NM | On Site | Dec 26 |
-| **[The New York Times](https://www.nytco.com/)** | **[Writer, The Morning](https://jobright.ai/jobs/info/676daf13b973e0f16cfa500a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | Hybrid | Dec 26 |
-| ↳ | **[Writer, The Morning](https://jobright.ai/jobs/info/676daf13b973e0f16cfa5032?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Dec 26 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/664f427cad2d60bfd3232770?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Liverpool, NY | On Site | Dec 26 |
+| **[The New York Times](https://www.nytco.com/)** | **[Writer, The Morning](https://jobright.ai/jobs/info/676daf13b973e0f16cfa5032?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Dec 26 |
+| ↳ | **[Writer, The Morning](https://jobright.ai/jobs/info/676daf13b973e0f16cfa5031?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | Hybrid | Dec 26 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6676c253c9dc0237d722b6de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Parrish, FL | On Site | Dec 26 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664f427cad2d60bfd3232770?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Liverpool, NY | On Site | Dec 26 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677bdf427c0e726e8f4f530?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Carrollton, TX | On Site | Dec 26 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/674d64f27ad8bdc326b8f4a9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Federal Way, WA | On Site | Dec 26 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664dffd4d79e0cf765500fe4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clarksville, TN | On Site | Dec 26 |
