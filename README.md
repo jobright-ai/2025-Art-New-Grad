@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - 3rd Shift](https://jobright.ai/jobs/info/6783265a8859fba86e9b9c17?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Fe Springs, CA | On Site | Jan 11 |
+| ↳ | **[Production Associate - Garment Sorter - 2nd Shift](https://jobright.ai/jobs/info/6783265a8859fba86e9b9c12?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Fe Springs, CA | On Site | Jan 11 |
+| ↳ | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/6783265a8859fba86e9b9c14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Fe Springs, CA | On Site | Jan 11 |
+| **[Haas Automation, Inc.](http://haascnc.com)** | **[Videographer/Editor (47246)](https://jobright.ai/jobs/info/6765e3038e465cac3b7b1264?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oxnard, CA | On Site | Jan 11 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/6782e77f132aebbfd48bf623?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gallup, NM | On Site | Jan 11 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6782c496ddf20e20b8a5a041?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Flower Mound, TX | On Site | Jan 11 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6782c496ddf20e20b8a5a043?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Jan 11 |
@@ -70,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Stage Asst](https://jobright.ai/jobs/info/678222c3d182fe0dfa723e7f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eastman, GA | On Site | Jan 10 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/678221d4fbfb9886b6010717?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Littleton, CO | On Site | Jan 10 |
 | **[Silencer Central](https://www.silencercentral.com)** | **[Event Specialist](https://jobright.ai/jobs/info/6781ffd1718f4b7b4b84f351?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sioux Falls, SD | On Site | Jan 10 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/675c8b1ec626840c51655c90?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Carmel, IN | On Site | Jan 10 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/6781db2cea0e47a286e8ec4e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Laredo, TX | On Site | Jan 10 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6781dc52ea0e47a286e8f4e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Moss Point, MS | On Site | Jan 10 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542e16?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chandler, AZ | On Site | Jan 10 |
@@ -155,6 +160,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[News Anchor/Reporter](https://jobright.ai/jobs/info/6725ed184788496959ea1683?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elmira, NY | On Site | Jan 08 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Female Model - Culver City Photo Studio](https://jobright.ai/jobs/info/67235dc9ed9d3d8692c56936?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Culver City, CA | On Site | Jan 08 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/677f28fdeb22e21bd02b41ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 08 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Bench Jeweler - Signet Jewelers - Orland Park Place - Orland Park, IL](https://jobright.ai/jobs/info/6708629c23b7570971e0fde1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orland Park, IL | On Site | Jan 08 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Newscast Producer](https://jobright.ai/jobs/info/677f0f86cdc4dd42eea646ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fresno, CA | On Site | Jan 08 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Production Associate, R2M](https://jobright.ai/jobs/info/673f70109d9fb370e42eb9d2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jan 08 |
 | **[Rue Gilt Groupe](https://www.ruegiltgroupe.com/)** | **[Short Term Assistant Boutique Producer](https://jobright.ai/jobs/info/677f0d60aa56f4940ffd85ca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boston, MA | Hybrid | Jan 08 |
