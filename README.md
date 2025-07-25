@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Home Chef](https://www.homechef.com)** | **[Production Associate](https://jobright.ai/jobs/info/6883c8b26fcd973d15ae314e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Jul 25 |
+| **[Michaels Stores](https://teachitpro.com)** | **[Part Time Framer Needed](https://jobright.ai/jobs/info/6883c230835a903aa07f7535?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Englewood-9565 E County Line Rd | On Site | Jul 25 |
+| **[Springer Nature](https://group.springernature.com/)** | **[Editorial Assistant, Nature Communications](https://jobright.ai/jobs/info/6883b7476fcd973d15ae2931?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Jul 25 |
+| **[Microsoft](https://www.microsoft.com)** | **[Content Creator – Copy, Creator & Fandom](https://jobright.ai/jobs/info/6883b40f835a903aa07f6eca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Jul 25 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[Fact Check Researcher - Washington, DC](https://jobright.ai/jobs/info/6883b14b6fcd973d15ae2678?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | DC Washington 820 1st Street NE | On Site | Jul 25 |
+| **[Totei](www.totei.com)** | **[Staff Writer](https://jobright.ai/jobs/info/6883b1356fcd973d15ae265e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jul 25 |
+| **[TDI LLC](http://www.tdiholdings.com/)** | **[Screen Print Production Assistant](https://jobright.ai/jobs/info/6883b0056fcd973d15ae25c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Virginia Beach, VA | On Site | Jul 25 |
+| **[Arise Homes](https://arise-homes.com/contact-us)** | **[Content Creator and Storyteller](https://jobright.ai/jobs/info/6883adb7b54cac0f1e738c6b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Overland Park, KS | On Site | Jul 25 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Writer](https://jobright.ai/jobs/info/6883a5c8835a903aa07f6839?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | CA-San Diego; 4575 Viewridge Ave (Nexstar - KUSI & KSWB) | On Site | Jul 25 |
+| **[Whim Hospitality](http://www.whimhospitality.com/)** | **[Resort Activities Coordinator](https://jobright.ai/jobs/info/6883c452835a903aa07f77fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dripping Springs, TX | On Site | Jul 25 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Custom Framer (PT Nights & Weekends)](https://jobright.ai/jobs/info/6883a374b54cac0f1e73884f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rensselaer-102 Van Rensselaer Square, Ste B | On Site | Jul 25 |
 | **[Agri-Pulse Communications](https://www.agri-pulse.com/)** | **[Associate Editor/Staff Writer](https://jobright.ai/jobs/info/6883a15c6fcd973d15ae2023?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Jul 25 |
 | **[Skin Laundry](http://www.skinlaundry.com)** | **[Aesthetic Registered Nurse](https://jobright.ai/jobs/info/68839fec6fcd973d15ae1faa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Campbell, California, United States | On Site | Jul 25 |
@@ -80,12 +89,11 @@ For a complete list, click the following sortable link below:
 | **[Georgetown University](http://www.georgetown.edu)** | **[Digital Curator and Processor of the Afkhami Collection](https://jobright.ai/jobs/info/6882dc19835a903aa07f139e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Jul 24 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882dbfc835a903aa07f1391?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spiceland, IN | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882da92835a903aa07f1313?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clear Brook, VA | On Site | Jul 24 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68830120b54cac0f1e73475b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austinburg, OH | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68830087835a903aa07f2750?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ionia, MI | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fff2835a903aa07f26d8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheyenne, WY | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fe49b54cac0f1e7344fe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Knoxville, TN | On Site | Jul 24 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f84b6fcd973d15addaa3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clovis, NM | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fe986fcd973d15addfce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wildwood, FL | On Site | Jul 24 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f84b6fcd973d15addaa3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clovis, NM | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f7d76fcd973d15adda43?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Piedmont, SC | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f8106fcd973d15adda73?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pecos, TX | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fd0f835a903aa07f2469?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vega, TX | On Site | Jul 24 |
@@ -96,16 +104,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f917835a903aa07f212d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Evansdale, IA | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fe626fcd973d15addf98?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wytheville, VA | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fa97b54cac0f1e7341ca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mill Hall, PA | On Site | Jul 24 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/688301b46fcd973d15ade26c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cokeville, WY | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/688301006fcd973d15ade1e1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tulsa, OK | On Site | Jul 24 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/688301b46fcd973d15ade26c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cokeville, WY | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fb65835a903aa07f2313?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salina, KS | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fd69835a903aa07f24b5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6883000b835a903aa07f26f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OK | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f9e4b54cac0f1e734150?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Carol Stream, IL | On Site | Jul 24 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f94d6fcd973d15addb70?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Peculiar, MO | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f7f4b54cac0f1e733fde?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ottawa Lake, MI | On Site | Jul 24 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fa42835a903aa07f2207?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisonburg, VA | On Site | Jul 24 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f94d6fcd973d15addb70?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Peculiar, MO | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fce2835a903aa07f2444?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mason, TN | On Site | Jul 24 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fa42835a903aa07f2207?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harrisonburg, VA | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fa7d835a903aa07f2240?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sturbridge, MA | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fc0c835a903aa07f239b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Franklin, KY | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fe26835a903aa07f2554?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Millersport, OH | On Site | Jul 24 |
@@ -114,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f8e0b54cac0f1e734083?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Junction, TX | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f7526fcd973d15add9c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Andrews, TX | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f84a6fcd973d15addaa2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McCalla, AL | On Site | Jul 24 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fee2835a903aa07f25fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Rosa, NM | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f94a835a903aa07f214c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL | On Site | Jul 24 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fee2835a903aa07f25fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Rosa, NM | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fb39835a903aa07f22f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Ledge, MI | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f75b6fcd973d15add9cb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New Milford, PA | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f6d5835a903aa07f1f73?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austintown, OH | On Site | Jul 24 |
@@ -124,12 +132,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68830005835a903aa07f26e6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Van Horn, TX | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882ffb2b54cac0f1e73463c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rapid City, SD | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fc97b54cac0f1e734371?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Monument, CO | On Site | Jul 24 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f705835a903aa07f1f96?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austinburg, OH | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882ffab835a903aa07f2695?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salome, AZ | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f8c1b54cac0f1e734065?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Collins, MO | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882f78a835a903aa07f1ff9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Huntsville, TX | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/688301d16fcd973d15ade289?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atalissa, IA | On Site | Jul 24 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/688300b1b54cac0f1e73470b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Myerstown, PA | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fee2835a903aa07f25fb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sullivan, MO | On Site | Jul 24 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/688300b1b54cac0f1e73470b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Myerstown, PA | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/688300fdb54cac0f1e73473e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Laramie, WY | On Site | Jul 24 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/6882fbb4835a903aa07f2355?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hobbs, NM | On Site | Jul 24 |
 | **[SiriusXM](http://siriusxm.com)** | **[Video Production Assistant, Video Programming](https://jobright.ai/jobs/info/6882d4cdb54cac0f1e733114?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Jul 24 |
@@ -309,7 +318,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/662af318e0f2d0369fb50bb6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, TX | On Site | Jul 22 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66e6dd104d92e042a0b43e4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Palm Desert, CA | On Site | Jul 22 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66e197de611b398b4e584332?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, CO | On Site | Jul 22 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/67515b4eca4f20f33397b6f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Jul 22 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676ffae2798d14ba8f623d3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Melbourne, FL | On Site | Jul 22 |
 | **[Carriage Services](http://carriageservices.com)** | **[Funeral Director/Embalmer Apprentice](https://jobright.ai/jobs/info/688040dc2097a271a89a21a1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Caldwell, ID | On Site | Jul 22 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc3f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Jul 22 |
@@ -347,6 +355,8 @@ For a complete list, click the following sortable link below:
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/65e871733da54ecf49161bac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rincon, GA | On Site | Jul 22 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/687fc92b9f72804245705194?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indianapolis, IN | On Site | Jul 22 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6677b17ad57a2b58a480ba35?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McHenry, IL | On Site | Jul 22 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6752fe2edf01aa6d906b6b10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cape Girardeau, MO | On Site | Jul 22 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66934f9f5d386ebc07d0fef8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blackwood, NJ | On Site | Jul 22 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - $18.00/Hour](https://jobright.ai/jobs/info/6880f422f4f06100f3a22683?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kingsport, TN | On Site | Jul 22 |
 | **[Montclair State University](http://www.montclair.edu/)** | **[First Hand/Stitcher](https://jobright.ai/jobs/info/6880dea0f4f06100f3a21957?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montclair, NJ | On Site | Jul 22 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Seasonal Avid/Interplay Media Specialist](https://jobright.ai/jobs/info/68471732a849e7a9e715008d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, NJ | On Site | Jul 22 |
@@ -356,6 +366,7 @@ For a complete list, click the following sortable link below:
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6786bb2767a7a976f6f1afab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake Dallas, TX | On Site | Jul 22 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676bbf09b9f24e2dbdca6f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Castle Rock, CO | On Site | Jul 22 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Content Creator](https://jobright.ai/jobs/info/6863482375a7d35fe59d5900?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | Hybrid | Jul 22 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6676cedf131cc9dd67df27af?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Carlsbad, CA | On Site | Jul 22 |
 | **[Zerocoin Studios](https://www.zerocoinstudios.com)** | **[Video Editor - Research Participant (Global)](https://jobright.ai/jobs/info/6880c91216ea5743a37330bf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jul 22 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/662af311e0f2d0369fb50b78?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Junction, CO | On Site | Jul 22 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676c61f807f31af72076c0b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL | On Site | Jul 22 |
@@ -413,9 +424,9 @@ For a complete list, click the following sortable link below:
 | **[The Daily Catch](http://thedailycatch.org)** | **[Reporter](https://jobright.ai/jobs/info/687f13612097a271a899a60a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Red Hook, NY | Hybrid | Jul 21 |
 | **[McConnell Golf](http://mcconnellgolf.com)** | **[Golf Course Maintenance Crew / Wilson Country Club](https://jobright.ai/jobs/info/687f07f5764c3d7411c484d2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wilson, NC | On Site | Jul 21 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6793cb73f1b7df53b5d6e217?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Paul, MN | On Site | Jul 21 |
-| **[Wasserman](http://www.teamwass.com)** | **[Assistant, Music (Pop/R&B)](https://jobright.ai/jobs/info/687efae42097a271a8999576?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jul 21 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/664def35cf7bdc8f73b3bcd1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, NE | On Site | Jul 21 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664def35cf7bdc8f73b3bcd1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, NE | On Site | Jul 21 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66abaf39142d89f5455a6a93?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Prattville, AL | On Site | Jul 21 |
+| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6677c86464f2e472ffd64195?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Jul 21 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677b8a29c2d9fa5bf0890d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, OH | On Site | Jul 21 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676d8404ffdc62f7b679543?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Humble, TX | On Site | Jul 21 |
 | **[Warby Parker](http://www.warbyparker.com)** | **[Apprentice Optician - Ridge Hill](https://jobright.ai/jobs/info/682cc946b09f4d6f859f322a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yonkers, NY | On Site | Jul 21 |
@@ -471,6 +482,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677c77664f2e472ffd6318d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marietta, GA | On Site | Jul 21 |
 | **[BMC](https://www.biomedcentral.com/)** | **[Associate or Senior Editor, BMC Psychiatry](https://jobright.ai/jobs/info/687e85632097a271a8995ade?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Jul 21 |
 | **[Dig Inn](https://www.diginn.com/)** | **[Chef In Training, Suburban Square](https://jobright.ai/jobs/info/687f1722764c3d7411c49174?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ardmore, Pennsylvania | On Site | Jul 21 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6677bc9f27c0e726e8f4dbb7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Jul 21 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/687e9b672097a271a899668d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sullivan, MO | On Site | Jul 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/687e9f77764c3d7411c44ed4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OK | On Site | Jul 21 |
 | **[Geffen Academy at UCLA](https://geffenacademy.ucla.edu)** | **[Theater Director](https://jobright.ai/jobs/info/687e7bc22097a271a899572f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westwood, CA | On Site | Jul 21 |
@@ -506,7 +518,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664dff9dd79e0cf765500b6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nampa, ID | On Site | Jul 21 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677cbed74ec1a95a89ad9c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gainesville, FL | On Site | Jul 21 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676bbe49b9f24e2dbdca645?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Melbourne, FL | On Site | Jul 21 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc401?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Jul 21 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/675d48bbbe71cdac6afdc7cb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sugar Land, TX | On Site | Jul 21 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66944b35d108c04a27562361?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lancaster, CA | On Site | Jul 21 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6676b393a2f49d4e236dc6c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Katy, TX | On Site | Jul 21 |
@@ -553,7 +564,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662af2d8e0f2d0369fb5054c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amarillo, TX | On Site | Jul 20 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6677d2bd97271e26801e3297?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yorba Linda, CA | On Site | Jul 20 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664dffd4d79e0cf765500fe2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Palmdale, CA | On Site | Jul 20 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65e871733da54ecf49161bd4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, NE | On Site | Jul 20 |
 | **[Groome Industrial Service Group](https://groomeindustrial.com/)** | **[Painter](https://jobright.ai/jobs/info/6870408d06ad7073463bc7d1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Billings, Montana | On Site | Jul 20 |
 | **[TEGNA](http://www.tegna.com)** | **[Weekend Show Producer](https://jobright.ai/jobs/info/67c9d2b82e7a1e3055427066?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KUSA KTVD-TV Denver | On Site | Jul 20 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/65e1e8f9613bc0c4793e53a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Satellite Beach, FL | On Site | Jul 20 |
@@ -606,6 +616,7 @@ For a complete list, click the following sortable link below:
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6676cebc131cc9dd67df259d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santee, CA | On Site | Jul 19 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/687ffbbf9f7280424570645c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Jul 19 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Production Assistant, Fox Archives Team](https://jobright.ai/jobs/info/685ef390bad40fb8047ec794?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jul 19 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/65e5cb20e8a32a09adfb5510?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, NE | On Site | Jul 19 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality](https://jobright.ai/jobs/info/68344e8b45afd0e918b283b8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Jul 19 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/687c77392097a271a8989c2f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lincoln, NE | On Site | Jul 19 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f427cad2d60bfd3232718?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Katy, TX | On Site | Jul 19 |
@@ -632,7 +643,6 @@ For a complete list, click the following sortable link below:
 | **[COURIER](https://couriernewsroom.com)** | **[Video Editor](https://jobright.ai/jobs/info/686bfae435584b6542deebd3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Jul 19 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Production Associate](https://jobright.ai/jobs/info/685ede42817be06f290cbfd9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mishawaka, IN | Hybrid | Jul 19 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Seamstress (Costuming) $19/HR](https://jobright.ai/jobs/info/687bca00ed63844c944ab946?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vallejo, CA | On Site | Jul 19 |
-| ↳ | **[Fright Fest Scare-Actor $17.00/HR](https://jobright.ai/jobs/info/687bc2f6764c3d7411c35620?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vallejo, CA | On Site | Jul 19 |
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Tailor / Fitter- Michigan Ave](https://jobright.ai/jobs/info/6842425d4a3bbb8130471447?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Jul 19 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Newscast producer](https://jobright.ai/jobs/info/664e2b74fd06ab529d525d9f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bakersfield, CA | Hybrid | Jul 19 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/660cdf9d65c5d1e21dc3a477?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saratoga Springs, NY | On Site | Jul 19 |
@@ -657,12 +667,4 @@ For a complete list, click the following sortable link below:
 | **[BUTTER Music and Sound](https://www.gimmebutter.com)** | **[Associate Music Editor](https://jobright.ai/jobs/info/687c8a77764c3d7411c38ed9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | On Site | Jul 18 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Japanese Content Producer (Seasonal)](https://jobright.ai/jobs/info/680500d5ad9ffef936a4d01f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Remote | Jul 18 |
 | **[Eagle Springs Golf Club](https://www.eaglesprings.org)** | **[Outside Golf Operations (Bag Staff) August 1st - October 1st](https://jobright.ai/jobs/info/687dbd0b764c3d7411c3e433?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wolcott, CO | On Site | Jul 18 |
-| **[DreamWorks Animation](https://www.madoohd.com/)** | **[Freelance Digital Affiliate Editor- Olympic Games](https://jobright.ai/jobs/info/687b036c2097a271a898235f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1 Blachley Rd, Stamford, CT 06902, USA | Remote | Jul 18 |
-| **[Alo Yoga](https://www.aloyoga.com/)** | **[Production Coordinator, Women's](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e80e6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Commerce, CA | On Site | Jul 18 |
-| **[Bickford Senior Living](https://bickfordseniorliving.com/)** | **[Activities Director](https://jobright.ai/jobs/info/687ca2792097a271a898c2c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Des Moines, IA | On Site | Jul 18 |
-| **[University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Book Review Assistant](https://jobright.ai/jobs/info/687c89702097a271a898ac8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | North Carolina, United States | Hybrid | Jul 18 |
-| **[For Garden's Sake](https://fgsdurham.com)** | **[Groundskeeper (part-time)](https://jobright.ai/jobs/info/687aee95764c3d7411c30183?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | For Garden's Sake | On Site | Jul 18 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[The Hill Digital Temp Producer (Washington, DC)](https://jobright.ai/jobs/info/687caee7764c3d7411c3b45d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Jul 18 |
-| **[Nice & Fresh Cleaners](http://nicefreshclean.com)** | **[Professional Cleaning / Residential & Commercial / Part / Full Time](https://jobright.ai/jobs/info/687aecf7764c3d7411c30102?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Asheville, NC | On Site | Jul 18 |
-| **[WISC-TV](http://channel3000.com)** | **[Multi-Media Journalist](https://jobright.ai/jobs/info/687c8c8d2097a271a898ae64?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spokane, WA | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
