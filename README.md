@@ -121,16 +121,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f98cd627244576e2fccb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clear Brook, VA | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f6de33dd7158bbcaaa4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Huntsville, TX | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f63833dd7158bbcaa93f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atoka, OK | On Site | Aug 21 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f710758f2e4ac3fef88f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bartow, FL | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f58333dd7158bbcaa82f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dalton, GA | On Site | Aug 21 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f710758f2e4ac3fef88f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bartow, FL | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f925d627244576e2fc2f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ottawa Lake, MI | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7fa6fd627244576e2fe13?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Northfield, MN | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f909d627244576e2fc02?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ruther Glen, VA | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f608758f2e4ac3fef792?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raphine, VA | On Site | Aug 21 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f916d627244576e2fc0e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salisbury, NC | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f5fc33dd7158bbcaa8d7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winnemucca, NV | On Site | Aug 21 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f6eb33dd7158bbcaaa62?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Aug 21 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f916d627244576e2fc0e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salisbury, NC | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f602758f2e4ac3fef788?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gretna, NE | On Site | Aug 21 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f6eb33dd7158bbcaaa62?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f925d627244576e2fc33?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springville, UT | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f664758f2e4ac3fef7ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Big Springs, NE | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f89ed627244576e2fb52?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tye, TX | On Site | Aug 21 |
@@ -310,7 +310,7 @@ For a complete list, click the following sortable link below:
 | **[eko](https://eko.com)** | **[Props Associate - Weekends](https://jobright.ai/jobs/info/68a381b337d3cc6b0d577a97?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bentonville, AR | On Site | Aug 18 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance](https://jobright.ai/jobs/info/68a37dfb37d3cc6b0d5777e2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bloomfield, CT | On Site | Aug 18 |
 | **[ParkLand Ventures, Inc.](http://parklandventuresinc.com/)** | **[Groundskeeper/Landscaper](https://jobright.ai/jobs/info/68a378e6403ad4363b1c17b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Northville, MI | On Site | Aug 18 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68a3748c1ab5f8579e8a5c0c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Aug 18 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68a3752a403ad4363b1c12c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Aug 18 |
 | **[Entravision](https://entravision.com/)** | **[TV Production](https://jobright.ai/jobs/info/68a3731e403ad4363b1c1040?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Palm Desert, CA | Hybrid | Aug 18 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/68a370a437d3cc6b0d576d66?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elmira, NY | On Site | Aug 18 |
 | ↳ | **[Custom Framer](https://jobright.ai/jobs/info/68a36f15403ad4363b1c0edb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stow, OH | On Site | Aug 18 |
@@ -326,5 +326,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Producer](https://jobright.ai/jobs/info/6815684684ca0d3eea6dfef4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rochester, NY | On Site | Aug 18 |
 | **[Weinstein Properties](http://weinsteinproperties.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/68a31cfe403ad4363b1beaa2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wake Forest, NC | On Site | Aug 18 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Custom Framer - Part Time](https://jobright.ai/jobs/info/68a2be2aff570d7ffd65d8d4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mountain View-2415 Charleston Rd | On Site | Aug 17 |
-| **[University of Illinois Springfield](http://www.uis.edu/)** | **[Extra Help Stagehand - 50 vacancies](https://jobright.ai/jobs/info/68749484ae2f413e4a59d9f4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, IL | On Site | Aug 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
