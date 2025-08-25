@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TEGNA](http://www.tegna.com)** | **[Morning Show Producer](https://jobright.ai/jobs/info/68ac9506758f2e4ac3006bc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KARE-TV Minneapolis | On Site | Aug 25 |
+| **[Michaels Stores](https://teachitpro.com)** | **[PT Event Coordinator (Will Train)](https://jobright.ai/jobs/info/68ac91bed627244576e46d9b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Parsippany-1099 Rte 46 E | On Site | Aug 25 |
 | **[Accdon, LLC (Publishing services)](https://www.accdon.com/)** | **[Assistant/Associate Editor, Academic Editing](https://jobright.ai/jobs/info/68ac8dffdaf1431824c95eac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Waltham, MA | Hybrid | Aug 25 |
 | **[OnlineLabels](https://www.onlinelabels.com/)** | **[Packaging & Production Associate](https://jobright.ai/jobs/info/68ac2665daf1431824c93e59?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Aug 25 |
 | **[Gelfand, Rennert & Feldman, LLC](https://www.grfllp.com/)** | **[Music Royalty Analyst](https://jobright.ai/jobs/info/68abc788758f2e4ac30004d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | White Plains, NY | On Site | Aug 24 |
@@ -91,8 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Lamar University](http://www.lamar.edu/)** | **[Special Events Crew (Pooled) - INTERNAL APPLICANTS ONLY](https://jobright.ai/jobs/info/68a9306d6acf96396f7256c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beaumont, TX | On Site | Aug 22 |
 | **[Evolution](https://www.evolution.com)** | **[Casino Game Presenter (Host/Hostess Alternative) up to $21/hr](https://jobright.ai/jobs/info/68a90f3e6acf96396f7246dc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | Aug 22 |
 | ↳ | **[In-Studio Casino Games Host  $17 -  $21/hr. FULL BENEFITS](https://jobright.ai/jobs/info/68a90e1b758f2e4ac3ff6e26?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | Aug 22 |
-| **[Productive Playhouse](https://productiveplayhouse.com/)** | **[Haitian Creole Video Reviewer](https://jobright.ai/jobs/info/68a90de0758f2e4ac3ff6deb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Aug 22 |
-| **[Evolution](https://www.evolution.com)** | **[Game Presenter (Customer Service) up to 21/hr.](https://jobright.ai/jobs/info/68a90db0758f2e4ac3ff6dbc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | Aug 22 |
+| ↳ | **[Game Presenter (Customer Service) up to 21/hr.](https://jobright.ai/jobs/info/68a90db0758f2e4ac3ff6dbc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | Aug 22 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Production Assistant, FOX Nation](https://jobright.ai/jobs/info/68a90ca7d627244576e37070?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Aug 22 |
 | **[Fiduciary Real Estate Development](https://www.fred-inc.com/)** | **[Groundskeeper (54913)](https://jobright.ai/jobs/info/68abc7b8758f2e4ac3000541?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Verona, WI, USA | On Site | Aug 22 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a904d1758f2e4ac3ff6b4e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jal, NM | On Site | Aug 22 |
@@ -101,8 +102,7 @@ For a complete list, click the following sortable link below:
 | **[News 12](http://www.news12.com/)** | **[Multimedia Journalist](https://jobright.ai/jobs/info/68a91ca5758f2e4ac3ff76d4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bronx, NY | Hybrid | Aug 22 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68a8f5946acf96396f723d63?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Heath, OH | On Site | Aug 22 |
 | **[Our Sunday Visitor](https://www.osv.com/default.aspx)** | **[OSV News, Associate Digital Editor](https://jobright.ai/jobs/info/68a8e31f6acf96396f7238e5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Aug 22 |
-| **[Bickford Senior Living](https://bickfordseniorliving.com/)** | **[Activities Director](https://jobright.ai/jobs/info/68a8d24c758f2e4ac3ff5a0d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Anamosa, IA | On Site | Aug 22 |
-| ↳ | **[Activities Director](https://jobright.ai/jobs/info/68a8d0446acf96396f722fd2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedar Rapids, IA | On Site | Aug 22 |
+| **[Bickford Senior Living](https://bickfordseniorliving.com/)** | **[Activities Director](https://jobright.ai/jobs/info/68a8d0446acf96396f722fd2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedar Rapids, IA | On Site | Aug 22 |
 | **[WestRock Company](http://www.westrock.com)** | **[Production Associates - Mishawaka, IN](https://jobright.ai/jobs/info/68a8c7d5d627244576e357d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mishawaka, IN | On Site | Aug 22 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[Detailer](https://jobright.ai/jobs/info/68a8bf366acf96396f7226c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Calera, AL | On Site | Aug 22 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Digital Production Assistant, Entertainment](https://jobright.ai/jobs/info/68a8bae1d627244576e34e9c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Aug 22 |
@@ -147,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f608758f2e4ac3fef792?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raphine, VA | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f5fc33dd7158bbcaa8d7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winnemucca, NV | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f916d627244576e2fc0e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salisbury, NC | On Site | Aug 21 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f602758f2e4ac3fef788?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gretna, NE | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f6eb33dd7158bbcaaa62?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Aug 21 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f602758f2e4ac3fef788?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gretna, NE | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f925d627244576e2fc33?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springville, UT | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f664758f2e4ac3fef7ec?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Big Springs, NE | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7f89ed627244576e2fb52?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tye, TX | On Site | Aug 21 |
@@ -160,8 +160,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7b5cd33dd7158bbca8e72?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, KY | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7b5b833dd7158bbca8e67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New Milford, PA | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7b42fd627244576e2e192?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mill Hall, PA | On Site | Aug 21 |
-| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7b389758f2e4ac3fedd42?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wildwood, FL | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7b389758f2e4ac3fedd41?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Andrews, TX | On Site | Aug 21 |
+| ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7b389758f2e4ac3fedd42?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wildwood, FL | On Site | Aug 21 |
 | ↳ | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7b317758f2e4ac3fedcdb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakland, OR | On Site | Aug 21 |
 | **[Vail Resorts](http://www.vailresortscareers.com)** | **[Snow Reporter](https://jobright.ai/jobs/info/68a7b309d627244576e2e077?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Truckee, CA | On Site | Aug 21 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/68a7b308758f2e4ac3fedccb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chemult, OR | On Site | Aug 21 |
@@ -300,9 +300,4 @@ For a complete list, click the following sortable link below:
 | **[Launch Potato](http://launchpotato.com)** | **[Editorial Assistant](https://jobright.ai/jobs/info/68a45ace2d2a252445cd69ff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ (remote) | Remote | Aug 18 |
 | **[Six Flags Over Georgia](http://www.sixflags.com/overgeorgia)** | **[Costumed Character - $14/hr](https://jobright.ai/jobs/info/68a3f60c2d2a252445cd44ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austell, GA | On Site | Aug 18 |
 | **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/68aa8e2fd627244576e3d890?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albuquerque, NM | On Site | Aug 18 |
-| **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/689e877a83d13d1f5b6bd5cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elkin, NC | On Site | Aug 18 |
-| **[Today Media](http://todaymediainc.com)** | **[ASSOCIATE DIGITAL EDITOR](https://jobright.ai/jobs/info/68a3d44a403ad4363b1c41b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fishkill, NY | Hybrid | Aug 18 |
-| **[Hudson Grove](https://www.hudsongrovepm.com)** | **[Groundskeeper](https://jobright.ai/jobs/info/68a3d42d1ab5f8579e8a8c50?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lakewood, CO | On Site | Aug 18 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Seasonal PT Framer](https://jobright.ai/jobs/info/68a3d41b1ab5f8579e8a8c38?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amherst-1569 Niagara Falls Blvd, Ste 100 | On Site | Aug 18 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Production Associate](https://jobright.ai/jobs/info/689169064c7e851b90ace465?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Troy, OH | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
