@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality](https://jobright.ai/jobs/info/68b73189f4e41a61efd964c4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Sep 02 |
+| **[Mastercorp](www.test-masters.eu)** | **[Houseperson / Runner - Hill Country at Canyon Lake Resort](https://jobright.ai/jobs/info/68b71be01ade4306aa647a25?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canyon Lake, TX | On Site | Sep 02 |
+| **[AMJ](https://www.emjreviews.com/en-us/amj/)** | **[Editorial Assistant](https://jobright.ai/jobs/info/68b71b762124650c1401f641?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL | Hybrid | Sep 02 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b710db2124650c1401f176?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Airy, MD | On Site | Sep 02 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b710b32124650c1401f135?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Truth Or Consequences, NM | On Site | Sep 02 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b7107a2124650c1401f0cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Shelbyville, KY | On Site | Sep 02 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b710462124650c1401f07f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wake Forest, NC | On Site | Sep 02 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b70c042124650c1401ef8d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Forest Lake, MN | On Site | Sep 02 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b70b33f4e41a61efd9530d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Woodsville, NH | On Site | Sep 02 |
+| **[Fox Corporation](https://www.foxcorporation.com/)** | **[Associate Editor, Commerce/Commerce Content Writing Experience](https://jobright.ai/jobs/info/68b730191ade4306aa64842c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Sep 02 |
+| **[Random House Group](https://www.penguinrandomhouse.com/)** | **[Editorial Assistant, Inklore-Global Pop Comics (Open to Remote; Hybrid Preferred)](https://jobright.ai/jobs/info/68b71c57f4e41a61efd95b0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Sep 02 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/68b7061ef4e41a61efd95137?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Montclair, NY | On Site | Sep 02 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b705681ade4306aa6470b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Sep 02 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Painter](https://jobright.ai/jobs/info/68b704c3f4e41a61efd95032?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, VA, 22209 | On Site | Sep 02 |
@@ -70,10 +75,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b6f882f4e41a61efd94ce5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oneida, NY | On Site | Sep 02 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b6f83af4e41a61efd94cc7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Country Club Hills, IL | On Site | Sep 02 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[DC Face Characters - $14/hr.](https://jobright.ai/jobs/info/68b712272124650c1401f3a3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austell, GA | On Site | Sep 02 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[MultiMedia Journalist](https://jobright.ai/jobs/info/6809424233edab25531f3591?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colchester, VT | Hybrid | Sep 02 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6693b9451c47153b9abc8cb0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chula Vista, CA | On Site | Sep 02 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664f427cad2d60bfd323277a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spokane, WA | On Site | Sep 02 |
+| **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance](https://jobright.ai/jobs/info/687e99d4db19f31cf0d6b972?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Sep 02 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/664f427cad2d60bfd323277a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spokane, WA | On Site | Sep 02 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664de01e0790ade97e15e0de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, TX | On Site | Sep 02 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664dff9dd79e0cf765500b6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nampa, ID | On Site | Sep 02 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65e88259b7f15e54908a3773?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Escondido, CA | On Site | Sep 02 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/65e724f3ee1da407914388b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Sep 02 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b6bf1bf4e41a61efd94276?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nampa, ID | On Site | Sep 02 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b6beae1ade4306aa646275?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Charles, IL | On Site | Sep 02 |
@@ -93,7 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Hollywood Gaming Mahoning Valley Race Course](https://www.hollywoodmahoningvalley.com/)** | **[Announcer](https://jobright.ai/jobs/info/68b5e8881ade4306aa6437de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Youngstown, OH | On Site | Sep 01 |
 | **[Swift7 Consultants](https://www.swift7consultants.com/)** | **[Production Assistant](https://jobright.ai/jobs/info/68b6633bf4e41a61efd928f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH | On Site | Sep 01 |
 | **[Phillips Exeter Academy](https://www.exeter.edu/)** | **[Writer in Residence George Bennett Fellowship](https://jobright.ai/jobs/info/68b662d7bc187f64e1be9908?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Exeter, NH | On Site | Sep 01 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/65fbad388631eabd5020e852?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Sep 01 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/662af318e0f2d0369fb50bbb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Walton Beach, FL | On Site | Sep 01 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65fbad388631eabd5020e852?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Sep 01 |
 | **[Michaels Stores](https://teachitpro.com)** | **[retail custom framer](https://jobright.ai/jobs/info/68b5bd2a1ade4306aa6431f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Issaquah-1802 12th Ave NW Ste A | On Site | Sep 01 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b5bca2bc187f64e1be81c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Vernon, IL | On Site | Sep 01 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b5ba24f4e41a61efd910b2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boone, IA | On Site | Sep 01 |
@@ -201,7 +210,6 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b301b2bc187f64e1bdf974?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Victor, NY | On Site | Aug 30 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/685d9193bc34124007b221f2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | Aug 30 |
 | ↳ | **[Production Associate - Garment Hanger/Inspector - Up To $21/Hour](https://jobright.ai/jobs/info/689839e45574fd6bc0c75f77?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, OH | On Site | Aug 30 |
-| **[News 12](http://www.news12.com/)** | **[Multimedia Journalist](https://jobright.ai/jobs/info/68b2ddaf1ade4306aa63a46d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brooklyn, NY | Hybrid | Aug 30 |
 | **[Petco](https://www.petco.com/unleashed)** | **[Groomer](https://jobright.ai/jobs/info/68b2d4851ade4306aa63a370?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bay Shore, NY | On Site | Aug 30 |
 | ↳ | **[Groomer](https://jobright.ai/jobs/info/68b2cef1bc187f64e1bdf27e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bronx, NY | On Site | Aug 30 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b2cd55bc187f64e1bdf1d9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Moberly, MO | On Site | Aug 30 |
@@ -226,6 +234,7 @@ For a complete list, click the following sortable link below:
 | **[Evolution](https://www.evolution.com)** | **[Live Game Presenter (Customer Service) up to $21/hr.](https://jobright.ai/jobs/info/68b1f85a1ade4306aa633327?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlantic City, NJ, USA | On Site | Aug 29 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/68b1f3841ade4306aa633248?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | McCalla, AL | On Site | Aug 29 |
 | **[Hayes Gibson Property Services](https://hayesgibson.com)** | **[Part-Time Groundskeeper - Westminster Village](https://jobright.ai/jobs/info/68b266e5f4e41a61efd83d01?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lexington, KY | On Site | Aug 29 |
+| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/68ae55df758f2e4ac3012e13?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Athens, GA | On Site | Aug 29 |
 | **[National Football League (NFL)](http://www.nfl.com)** | **[Talent Producer and Voiceover Coordinator](https://jobright.ai/jobs/info/68b1e572bc187f64e1bd78ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, NJ | On Site | Aug 29 |
 | **[Santa Monica Studio](http://sms.playstation.com/)** | **[Cinematic Artist (Contract)](https://jobright.ai/jobs/info/68084a2d9342d1c726e9ecc5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | LA Metro Area | On Site | Aug 29 |
 | **[Gray Media](http://www.gray.tv)** | **[TECHNICAL MEDIA PRODUCER (ASSO) - KKTV](https://jobright.ai/jobs/info/68b1de6ebc187f64e1bd75e2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Aug 29 |
@@ -246,7 +255,6 @@ For a complete list, click the following sortable link below:
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/67c9a36ae3c71a18db9a8c74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Aug 29 |
 | **[Trailer Park Group](https://trailerparkgroup.com/)** | **[Client Game Capture Artist](https://jobright.ai/jobs/info/685cefd218bf0cd799ebbd46?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Aug 29 |
 | **[Morgan Murphy Media](http://morganmurphymedia.com/)** | **[TV Sports Anchor/Multi-Media Journalist / 4 News Now / Spokane, WA](https://jobright.ai/jobs/info/68938d2ca9199876488de206?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spokane, WA | On Site | Aug 29 |
-| **[United Talent Agency](http://www.unitedtalent.com)** | **[Assistant, Creative Production - Communications](https://jobright.ai/jobs/info/68b170dff4e41a61efd7dc08?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Aug 29 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b1894ff4e41a61efd7e39f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Circle Pines, MN | On Site | Aug 29 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Route Preparation - 2nd Shift](https://jobright.ai/jobs/info/689393c84c7e851b90ade80a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Liverpool, NY | On Site | Aug 29 |
 | ↳ | **[Production Associate - Garment Hanger/Inspector - 2nd Shift - $18.00/Hour](https://jobright.ai/jobs/info/68779dbaae2f413e4a5bbd40?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Milford, OH | On Site | Aug 29 |
@@ -265,45 +273,46 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b126a76fab621da7b0a2d9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sun Prairie, WI | On Site | Aug 28 |
 | **[Cal Poly Humboldt](https://www.humboldt.edu/)** | **[Gallery Assistant](https://jobright.ai/jobs/info/68b2c790f4e41a61efd87f33?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Humboldt County, CA | On Site | Aug 28 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b125a304557a6c207ba217?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boone, NC | On Site | Aug 28 |
-| **[Launch Potato](http://launchpotato.com)** | **[Editorial Assistant](https://jobright.ai/jobs/info/68b14b3ae815524ae11fd458?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tampa, FL (remote) | Remote | Aug 28 |
+| **[Launch Potato](http://launchpotato.com)** | **[Editorial Assistant](https://jobright.ai/jobs/info/68b16587e815524ae11fe989?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pittsburgh, PA (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1dd6abc187f64e1bd7517?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hartford, CT (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b208a11ade4306aa633f2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stamford, CT (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1e683bc187f64e1bd79b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1cfdbbc187f64e1bd6f8c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b198b61ade4306aa630a44?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b14e7e6fab621da7b0c599?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b189dbbc187f64e1bd5518?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b19838bc187f64e1bd581b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chapel Hill, NC (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1c96ebc187f64e1bd6bd9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Palm Beach, FL (hybrid) | On Site | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1cfc5bc187f64e1bd6f81?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b14b3ae815524ae11fd458?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tampa, FL (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1990ebc187f64e1bd5885?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newark, NJ (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b169376fab621da7b0d75a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1cbee1ade4306aa631f48?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Durham, NC (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b16b67e815524ae11fead3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saint Louis, MO (remote) | Remote | Aug 28 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1f567f4e41a61efd80fad?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ (remote) | Remote | Aug 28 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b14bec6fab621da7b0c1ad?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delray Beach, FL (hybrid) | On Site | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1b9aa1ade4306aa6317b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New Haven, CT (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b18ef91ade4306aa630759?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tulsa, OK (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b20b361ade4306aa6340da?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City, NJ (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b19f5af4e41a61efd7e88f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tucson, AZ (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1dd6abc187f64e1bd7517?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hartford, CT (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b14e7e6fab621da7b0c599?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1585b6fab621da7b0cb67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | American Fork, UT (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b189dbbc187f64e1bd5518?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1e2a91ade4306aa632965?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salt Lake City, UT (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1efbc1ade4306aa632f92?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1cfdbbc187f64e1bd6f8c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b16587e815524ae11fe989?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pittsburgh, PA (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1e12fbc187f64e1bd77bf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington, VT (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1ed7fbc187f64e1bd7e2a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saint Paul, MO (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1829ebc187f64e1bd52de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1812d1ade4306aa63041e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Henderson, NV (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b153c604557a6c207bc7f6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b19838bc187f64e1bd581b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chapel Hill, NC (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1cdeff4e41a61efd7fc8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenville, SC (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1ed2af4e41a61efd80cde?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, OH (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b19ea2f4e41a61efd7e7f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Lauderdale, FL (hybrid) | On Site | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1cbee1ade4306aa631f48?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Durham, NC (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1fefdf4e41a61efd81831?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, KS (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b198b61ade4306aa630a44?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b16b67e815524ae11fead3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saint Louis, MO (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1990ebc187f64e1bd5885?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newark, NJ (remote) | Remote | Aug 28 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1cadcbc187f64e1bd6dde?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1b9aa1ade4306aa6317b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1b9aa1ade4306aa6317b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New Haven, CT (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b153c604557a6c207bc7f6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1e2a91ade4306aa632965?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Salt Lake City, UT (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b20b361ade4306aa6340da?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City, NJ (remote) | Remote | Aug 28 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b145bc6fab621da7b0be71?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tallahassee, FL (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1b731f4e41a61efd7f394?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbia, SC (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1cfc5bc187f64e1bd6f81?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1e683bc187f64e1bd79b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1c96ebc187f64e1bd6bd9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Palm Beach, FL (hybrid) | On Site | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b208a11ade4306aa633f2e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stamford, CT (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1cdeff4e41a61efd7fc8b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenville, SC (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1ed7fbc187f64e1bd7e2a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saint Paul, MO (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1585b6fab621da7b0cb67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | American Fork, UT (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1b9aa1ade4306aa6317b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b19f5af4e41a61efd7e88f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tucson, AZ (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1ed2af4e41a61efd80cde?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, OH (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1812d1ade4306aa63041e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Henderson, NV (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b19ea2f4e41a61efd7e7f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Lauderdale, FL (hybrid) | On Site | Aug 28 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1e766f4e41a61efd809b3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OK (remote) | Remote | Aug 28 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b169376fab621da7b0d75a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1fefdf4e41a61efd81831?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, KS (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1efbc1ade4306aa632f92?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1829ebc187f64e1bd52de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b18ef91ade4306aa630759?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tulsa, OK (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1b731f4e41a61efd7f394?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbia, SC (remote) | Remote | Aug 28 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b1e12fbc187f64e1bd77bf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington, VT (remote) | Remote | Aug 28 |
+| **[United Talent Agency](http://www.unitedtalent.com)** | **[Assistant, Creative Production - Communications](https://jobright.ai/jobs/info/68b1127be815524ae11fafce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Aug 28 |
 | **[Statesman Journal / Gannett](http://www.statesmanjournal.com)** | **[Sports Reporter, Poughkeepsie NY](https://jobright.ai/jobs/info/68b5092cbc187f64e1be41fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Poughkeepsie, NY | On Site | Aug 28 |
 | **[Merakey](https://www.merakey.org/)** | **[Production Assistant](https://jobright.ai/jobs/info/68b1059204557a6c207b96dd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baton Rouge, LA | On Site | Aug 28 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/68b0fd6504557a6c207b93fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spiceland, IN | On Site | Aug 28 |
@@ -391,8 +400,8 @@ For a complete list, click the following sortable link below:
 | **[Launch Potato](http://launchpotato.com)** | **[Editorial Assistant](https://jobright.ai/jobs/info/68b2a3781ade4306aa6393ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cleveland, OH | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b28f51f4e41a61efd86808?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, TX | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29159bc187f64e1bdd61f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charlotte, NC | On Site | Aug 27 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b296f7f4e41a61efd86da7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29d241ade4306aa638f54?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL | On Site | Aug 27 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b296f7f4e41a61efd86da7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29147bc187f64e1bdd5ea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burlington, VT | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29069f4e41a61efd86959?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tampa, FL | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29690bc187f64e1bdda19?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati, OH | On Site | Aug 27 |
@@ -414,23 +423,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b294b6f4e41a61efd86b06?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newark, NJ | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b290331ade4306aa638551?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenville, SC | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b28f3af4e41a61efd867e9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Aug 27 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b298631ade4306aa638c9f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raleigh, NC | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29762f4e41a61efd86e13?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OK | On Site | Aug 27 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b298631ade4306aa638c9f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raleigh, NC | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29156bc187f64e1bdd60c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, FL | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29e4fbc187f64e1bde129?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delray Beach, FL | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29712bc187f64e1bddada?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Lauderdale, FL | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b296301ade4306aa638949?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Henderson, NV | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b291351ade4306aa6386fd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29097bc187f64e1bdd4eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, KS | On Site | Aug 27 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29628bc187f64e1bdd966?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wichita, KS | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b297b91ade4306aa638b90?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stamford, CT | On Site | Aug 27 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29628bc187f64e1bdd966?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wichita, KS | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b291b2f4e41a61efd86aba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b296411ade4306aa63895c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Palm Beach, FL | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29768bc187f64e1bddb6a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | Aug 27 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b2a1dff4e41a61efd872bc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston County, SC | On Site | Aug 27 |
-| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b296cbbc187f64e1bdda62?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbia, SC | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b2977dbc187f64e1bddb90?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b29529f4e41a61efd86b92?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greater Orlando | On Site | Aug 27 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b296cbbc187f64e1bdda62?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbia, SC | On Site | Aug 27 |
+| ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b2a1dff4e41a61efd872bc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston County, SC | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b2905a1ade4306aa638582?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Durham, NC | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b3e77dbc187f64e1be218c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Aug 27 |
 | ↳ | **[Editorial Assistant](https://jobright.ai/jobs/info/68b3e816f4e41a61efd8b09a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | American Fork, UT | On Site | Aug 27 |
@@ -450,9 +459,9 @@ For a complete list, click the following sortable link below:
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/68afcc2fe723db6c9b7b37b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gretna, NE | On Site | Aug 27 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/68afa562962903596357e070?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | Aug 27 |
 | **[Karsh Hagan](http://karshhagan.com/)** | **[Junior Video Editor](https://jobright.ai/jobs/info/68b5f8771ade4306aa643a75?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Aug 27 |
-| **[Barkbus](https://www.barkbus.com)** | **[Pet Stylist - Buckhead, GA](https://jobright.ai/jobs/info/68b0f61904557a6c207b8d45?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | On Site | Aug 27 |
-| ↳ | **[Pet Stylist - Centennial, CO](https://jobright.ai/jobs/info/68b0fdbde815524ae11fa89d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, CO | On Site | Aug 27 |
+| **[Barkbus](https://www.barkbus.com)** | **[Pet Stylist - Centennial, CO](https://jobright.ai/jobs/info/68b0fdbde815524ae11fa89d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, CO | On Site | Aug 27 |
 | ↳ | **[Pet Stylist - Commerce City, CO](https://jobright.ai/jobs/info/68b106ba6fab621da7b09729?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denver, CO | On Site | Aug 27 |
+| ↳ | **[Pet Stylist - Buckhead, GA](https://jobright.ai/jobs/info/68b0f61904557a6c207b8d45?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | On Site | Aug 27 |
 | **[Springer Nature](https://group.springernature.com/)** | **[Publishing Assistant](https://jobright.ai/jobs/info/68af983a2daaba398441f56e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | Hybrid | Aug 27 |
 | **[UNIQLO](https://www.uniqlo.com/jp/ja/)** | **[Uniqlo Retail Alterations Specialist (Full-time & Part-Time) - Chicago, IL](https://jobright.ai/jobs/info/68af95d2962903596357dc56?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Aug 27 |
 | **[Springer Nature](https://group.springernature.com/)** | **[Publishing Assistant](https://jobright.ai/jobs/info/68af94772daaba398441f42c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Aug 27 |
@@ -499,10 +508,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Drama Assistant/Production - Fall](https://jobright.ai/jobs/info/68b27f0af4e41a61efd85465?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Central Point, OR | On Site | Aug 26 |
 | **[360° Painting](https://360painting.com/)** | **[Licensed Painting Contractor (R-34/CR-34)](https://jobright.ai/jobs/info/68ae7994758f2e4ac3013e2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tucson, AZ | Hybrid | Aug 26 |
 | **[GoodLeap](https://www.goodleap.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/68ae797b758f2e4ac3013e0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Scottsdale, AZ | On Site | Aug 26 |
-| **[WestRock Company](http://www.westrock.com)** | **[Production Associates](https://jobright.ai/jobs/info/68ae6ccbd627244576e53c58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mishawaka, IN | On Site | Aug 26 |
-| **[Creative Artists Agency](http://www.caa.com)** | **[Television - News Assistant](https://jobright.ai/jobs/info/68ae6291daf1431824ca2acc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Aug 26 |
-| **[Gannett | USA TODAY NETWORK](http://www.gannett.com)** | **[Sports Reporter, Poughkeepsie NY](https://jobright.ai/jobs/info/68ae5db0daf1431824ca293e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Poughkeepsie, NY | On Site | Aug 26 |
-| **[EMPIRE](https://empi.re/)** | **[Publishing Research Coordinator](https://jobright.ai/jobs/info/68ae5a82758f2e4ac3013043?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | EMPIRE San Francisco | On Site | Aug 26 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/68ae55df758f2e4ac3012e13?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Athens, GA | On Site | Aug 26 |
-| **[Law360](http://www.law360.com)** | **[Reporter, Employment Authority](https://jobright.ai/jobs/info/68ae54afd627244576e53282?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ohio, United States | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
