@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Warner Music Group](http://www.wmg.com)** | **[A&R Assistant (Pop/Rock)](https://jobright.ai/jobs/info/68d4f24ce678d65ec7d89ab8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 03 |
 | **[Gannett | USA TODAY NETWORK](http://www.gannett.com)** | **[Atlanta Connect Reporter](https://jobright.ai/jobs/info/68cf1cd4846f0b04af67f5b5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Oct 02 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - $17.00 to $20.00/Hour](https://jobright.ai/jobs/info/68c2926103b99f6b34296646?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Evansville, IN | On Site | Oct 02 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68db781234f2c406da6d85b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greensburg, IN | On Site | Oct 01 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Coordinator, Spanish Social Editorial](https://jobright.ai/jobs/info/68c064908e65e77df55c0a7d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - $18.70/Hour](https://jobright.ai/jobs/info/68c2908c03b99f6b34296160?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Louisville, KY | On Site | Oct 01 |
@@ -216,8 +218,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d802057796a83635f0e3b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Morgantown, WV | On Site | Sep 27 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d802007796a83635f0e39c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sioux Falls, SD | On Site | Sep 27 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d7ffa67a37c712687d79b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buffalo, NY | On Site | Sep 27 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bc4c413bf9eb44f8323bca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orlando, FL | On Site | Sep 27 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d7fb2f295f8e37655e47ca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Roanoke, VA | On Site | Sep 27 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bc4c413bf9eb44f8323bca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Orlando, FL | On Site | Sep 27 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d7f9447a37c712687d76de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Sep 27 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d7f723295f8e37655e45d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Huntley, IL | On Site | Sep 27 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d7edb77796a83635f0d9e5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winchester, VA | On Site | Sep 27 |
@@ -244,9 +246,4 @@ For a complete list, click the following sortable link below:
 | **[Good Future Media](https://www.goodfuturemedia.com)** | **[Podcast Producer & Short-Form Video Director](https://jobright.ai/jobs/info/68d7771661a175619f8ce97e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Sep 26 |
 | **[Aspen Skiing Company](https://www.aspensnowmass.com)** | **[DJ Host - The Little Nell - Winter](https://jobright.ai/jobs/info/68d76bbc295f8e37655d8693?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Aspen, CO | Hybrid | Sep 26 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68db6369e19b9e63ba20b890?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Green Bay, WI | On Site | Sep 26 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d7706461a175619f8cd769?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Sep 26 |
-| **[The Little Nell](https://www.thelittlenell.com)** | **[DJ Host - The Little Nell - Winter](https://jobright.ai/jobs/info/68d75f39295f8e37655d6c6a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Aspen, CO | Hybrid | Sep 26 |
-| **[Vail Daily](http://www.vaildaily.com)** | **[Reporter](https://jobright.ai/jobs/info/68d8b89cc52ed61722c95722?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Avon, CO | On Site | Sep 26 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6897dc978c6d6b4426793171?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fayetteville, NC | On Site | Sep 26 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b9b8de8043103d4f219e16?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Antioch, IL | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
