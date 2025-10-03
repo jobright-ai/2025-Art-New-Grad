@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gannett | USA TODAY NETWORK](http://www.gannett.com)** | **[Atlanta Connect Reporter](https://jobright.ai/jobs/info/68cf1cd4846f0b04af67f5b5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Oct 02 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68db781234f2c406da6d85b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greensburg, IN | On Site | Oct 01 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Coordinator, Spanish Social Editorial](https://jobright.ai/jobs/info/68c064908e65e77df55c0a7d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 01 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - $18.70/Hour](https://jobright.ai/jobs/info/68c2908c03b99f6b34296160?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Louisville, KY | On Site | Oct 01 |
@@ -255,7 +256,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bb08858043103d4f225100?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Louis, MO | On Site | Sep 26 |
 | **[WAIALAE COUNTRY CLUB](https://waialaecc.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/68d7ac43295f8e37655e0696?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Honolulu, HI | On Site | Sep 26 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Assistant to the Editor of WSJ. Magazine](https://jobright.ai/jobs/info/68d76c3d295f8e37655d8afb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Sep 26 |
-| **[Central Market](https://www.centralmarket.com/)** | **[Central Market San Antonio Broadway Juice Production Rep - Full-Time](https://jobright.ai/jobs/info/68d757bc61a175619f8c8f13?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-TX-San Antonio | On Site | Sep 26 |
-| ↳ | **[Central Market San Antonio Broadway Juice Production Rep - Full-Time](https://jobright.ai/jobs/info/68d758217a37c712687c9656?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 78209 | On Site | Sep 26 |
-| **[WestRock Company](http://www.westrock.com)** | **[Production Associate](https://jobright.ai/jobs/info/68d712da894705799a2f05ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mechanicsburg, PA | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
