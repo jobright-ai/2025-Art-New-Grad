@@ -249,11 +249,4 @@ For a complete list, click the following sortable link below:
 | **[Vail Daily](http://www.vaildaily.com)** | **[Reporter](https://jobright.ai/jobs/info/68d8b89cc52ed61722c95722?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Avon, CO | On Site | Sep 26 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/6897dc978c6d6b4426793171?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fayetteville, NC | On Site | Sep 26 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b9b8de8043103d4f219e16?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Antioch, IL | On Site | Sep 26 |
-| **[Sinclair Inc.](http://sbgi.net)** | **[Content Producer](https://jobright.ai/jobs/info/689e5d4e83d13d1f5b6bb3a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Syracuse, NY | On Site | Sep 26 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/68d73f3745853d0e39ccdc0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Sep 26 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d73f35d3fe025a3015fccb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winchester, VA | On Site | Sep 26 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d73e27894705799a2f1948?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sand Springs, OK | On Site | Sep 26 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bb08858043103d4f225100?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Louis, MO | On Site | Sep 26 |
-| **[WAIALAE COUNTRY CLUB](https://waialaecc.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/68d7ac43295f8e37655e0696?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Honolulu, HI | On Site | Sep 26 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Assistant to the Editor of WSJ. Magazine](https://jobright.ai/jobs/info/68d76c3d295f8e37655d8afb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
