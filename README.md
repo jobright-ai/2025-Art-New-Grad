@@ -197,7 +197,6 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift - $16.00+/Hour](https://jobright.ai/jobs/info/68826e316fcd973d15ad90d4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Rapids, MI | On Site | Sep 28 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d95452061b716fa295a36e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Reno, NV | On Site | Sep 28 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d95339022fc803b48770a0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fergus Falls, MN | On Site | Sep 28 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d95328022fc803b4877090?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Westminster, MD | On Site | Sep 28 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d95306022fc803b4877079?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marion, IL | On Site | Sep 28 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d95078022fc803b4877073?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rochester, NY | On Site | Sep 28 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d94b4a9a8e451a446a487c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beebe, AR | On Site | Sep 28 |
