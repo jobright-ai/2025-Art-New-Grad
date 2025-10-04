@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c43d3714bb275ce0191bce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fenton, MI | On Site | Oct 04 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c2f2da5adaee6c9bda59fd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kilmarnock, VA | On Site | Oct 03 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Production Team Partner - Garment Inspector & Hanger - UniFirst](https://jobright.ai/jobs/info/68c7ad8ddb52c07d2884e264?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Liverpool, NY | On Site | Oct 03 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cba599ba798c1a501d3352?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Angola, IN | On Site | Oct 03 |
@@ -164,8 +165,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9cde6df7b8311bb10147?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO | On Site | Sep 29 |
 | **[Grön](https://eatgron.com)** | **[Packaging Support (Part Time)](https://jobright.ai/jobs/info/68da9c680b832179ca4aec9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, AZ | On Site | Sep 29 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c4d07c157682e56b6c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Georgetown, KY | On Site | Sep 29 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c3507c157682e56b685?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meridian, ID | On Site | Sep 29 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c356df7b8311bb0fff8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, IL | On Site | Sep 29 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c3507c157682e56b685?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meridian, ID | On Site | Sep 29 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/6835888cfa8a32692d93e621?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, NY  (Lennox Hill/Third Ave) | On Site | Sep 29 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bcfcddae79610dacddd035?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Goodland, KS | On Site | Sep 29 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bcfcbf68300c452ca17226?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairbury, NE | On Site | Sep 29 |
@@ -211,7 +212,4 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Prep Cook - Macys Cafe, West Dade Miami International - Part Time](https://jobright.ai/jobs/info/68d9153a9a8e451a446a43e0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1245 Northwest 107th Avenue, Doral, FL, 33172, US | On Site | Sep 28 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV](https://jobright.ai/jobs/info/6882ca0a835a903aa07f0bba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagan, MN | On Site | Sep 28 |
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Scenic Builder Overhire](https://jobright.ai/jobs/info/6882d1ceb54cac0f1e732e57?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, CA | On Site | Sep 28 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68c23dc563b706703e112d68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Sep 27 |
-| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/68ceea62fb49c96ca6ea4531?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Corinth, NY | On Site | Sep 27 |
-| **[BeloForm Craft](https://www.beloformcraft.com/)** | **[Production Assistant](https://jobright.ai/jobs/info/68d8997f22308b3db35ea40d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami Beach, FL | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
