@@ -172,8 +172,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9cde6df7b8311bb10147?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO | On Site | Sep 29 |
 | **[Grön](https://eatgron.com)** | **[Packaging Support (Part Time)](https://jobright.ai/jobs/info/68da9c680b832179ca4aec9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, AZ | On Site | Sep 29 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c4d07c157682e56b6c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Georgetown, KY | On Site | Sep 29 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c356df7b8311bb0fff8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, IL | On Site | Sep 29 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c3507c157682e56b685?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meridian, ID | On Site | Sep 29 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c356df7b8311bb0fff8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, IL | On Site | Sep 29 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/6835888cfa8a32692d93e621?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, NY  (Lennox Hill/Third Ave) | On Site | Sep 29 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bcfcddae79610dacddd035?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Goodland, KS | On Site | Sep 29 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bcfcbf68300c452ca17226?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairbury, NE | On Site | Sep 29 |
@@ -201,8 +201,4 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Associate Price Reporter, Minerals & Fertilizer](https://jobright.ai/jobs/info/68cccc2dfa466330fef911f6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Sep 28 |
 | **[Torrid](http://www.torrid.com/)** | **[Freelance Fitting Model (Bras)](https://jobright.ai/jobs/info/67a0803d2e58f08408f280f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | City of Industry, CA | On Site | Sep 28 |
 | **[Netflix](https://www.netflix.com)** | **[Netflix House Show Role: Hosts](https://jobright.ai/jobs/info/68a05326cc9ee94dc911efd9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | Sep 28 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d98740061b716fa295a6ef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saugus, MA | On Site | Sep 28 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d986fb9a8e451a446a4c8a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesapeake, VA | On Site | Sep 28 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d98650022fc803b48773b0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Uniontown, PA | On Site | Sep 28 |
-| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/68d97ae9022fc803b48772f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheyenne, WY | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
