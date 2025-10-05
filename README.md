@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Fulfillment Associate - $16.00/Hour](https://jobright.ai/jobs/info/68705ee301cc0956e7e81784?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Memphis, TN | On Site | Oct 05 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c57a49c96a22563ece90cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gilbert, AZ | On Site | Oct 04 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c43d3714bb275ce0191bce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fenton, MI | On Site | Oct 04 |
+| **[Greif](http://greif.com)** | **[Production Associate](https://jobright.ai/jobs/info/68c4b2907279451d6a036ee3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedartown, GA | On Site | Oct 04 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Operations Assistant, GQ](https://jobright.ai/jobs/info/68a78b4e758f2e4ac3fed0f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Mat Roller](https://jobright.ai/jobs/info/68c355f280e77b1fa6fc8676?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | Oct 03 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cb8f50ba798c1a501d1b35?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Findlay, OH | On Site | Oct 03 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db99e6e19b9e63ba20fd74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Sep 30 |
 | **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/68d75dbf61a175619f8ca28b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brevard, NC | On Site | Sep 29 |
 | **[Springer Nature](https://group.springernature.com/)** | **[Associate or Senior Editor, Nature Photonics](https://jobright.ai/jobs/info/68db509d34f2c406da6d6888?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Sep 29 |
-| ↳ | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db506c9f13662d20e49c4f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Sep 29 |
 | ↳ | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db506ce19b9e63ba20a90c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Sep 29 |
+| ↳ | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db506c9f13662d20e49c4f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Sep 29 |
 | ↳ | **[Associate or Senior Editor, Nature Sensors](https://jobright.ai/jobs/info/68db50679f13662d20e49c41?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Sep 29 |
 | ↳ | **[Associate or Senior Editor, Nature Photonics](https://jobright.ai/jobs/info/68db5064e19b9e63ba20a8e0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Sep 29 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Full Time Anchor/Producer](https://jobright.ai/jobs/info/68db4cd4e19b9e63ba20a56d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Sep 29 |
@@ -196,7 +198,4 @@ For a complete list, click the following sortable link below:
 | **[Neiman Marcus](https://www.neimanmarcusgroup.com)** | **[Flexible Styling Assistant - Beverly Hills](https://jobright.ai/jobs/info/689fd631cc9ee94dc911a3a5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, CA | On Site | Sep 28 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course-Groundskeeper-Landscape](https://jobright.ai/jobs/info/68813c17f4f06100f3a2552b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Aurora, CO | On Site | Sep 28 |
 | **[Pegasus Senior Living](https://www.pegasusseniorliving.com/)** | **[Activities Assistant](https://jobright.ai/jobs/info/68daff990dffed6f83d2bc01?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairfield, CA | On Site | Sep 28 |
-| **[Cintas](https://www.cintas.com)** | **[Seamstress/Tailor - $16.00/Hour](https://jobright.ai/jobs/info/68c2878e03b99f6b342949ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Memphis, TN | On Site | Sep 28 |
-| **[Cintas Canada](https://www.cintas.ca/)** | **[Production Associate - Apparel Grader](https://jobright.ai/jobs/info/68a013bafaa4e875e828d349?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Stockton, CA | On Site | Sep 28 |
-| **[Warby Parker](http://www.warbyparker.com)** | **[Licensed Optician - Ridge Hill](https://jobright.ai/jobs/info/68d9b7d69a8e451a446a529f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yonkers, NY | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
