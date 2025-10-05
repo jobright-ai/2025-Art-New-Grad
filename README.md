@@ -214,6 +214,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d94121022fc803b4876f67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greencastle, IN | On Site | Sep 28 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d940fb022fc803b4876f37?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fredonia, NY | On Site | Sep 28 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6871452406ad7073463c444a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Sep 28 |
-| **[Macy's](http://www.macysjobs.com)** | **[Prep Cook - Macys Cafe, West Dade Miami International - Part Time](https://jobright.ai/jobs/info/68d9153a9a8e451a446a43e0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 1245 Northwest 107th Avenue, Doral, FL, 33172, US | On Site | Sep 28 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV](https://jobright.ai/jobs/info/6882ca0a835a903aa07f0bba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagan, MN | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
