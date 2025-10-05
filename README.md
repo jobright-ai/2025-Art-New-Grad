@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c57a49c96a22563ece90cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gilbert, AZ | On Site | Oct 04 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c43d3714bb275ce0191bce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fenton, MI | On Site | Oct 04 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Operations Assistant, GQ](https://jobright.ai/jobs/info/68a78b4e758f2e4ac3fed0f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 04 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Mat Roller](https://jobright.ai/jobs/info/68c355f280e77b1fa6fc8676?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | Oct 03 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cb8f50ba798c1a501d1b35?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Findlay, OH | On Site | Oct 03 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c2f2da5adaee6c9bda59fd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kilmarnock, VA | On Site | Oct 03 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Production Team Partner - Garment Inspector & Hanger - UniFirst](https://jobright.ai/jobs/info/68c7ad8ddb52c07d2884e264?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Liverpool, NY | On Site | Oct 03 |
@@ -210,8 +211,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d94b4a9a8e451a446a487c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beebe, AR | On Site | Sep 28 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Production Team Partner - Garment Inspector & Hanger - UniFirst (Night Shift)](https://jobright.ai/jobs/info/68d948dc061b716fa295a2c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Franklin, OH | On Site | Sep 28 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d9487a9a8e451a446a482d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Wareham, MA | On Site | Sep 28 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bc404eae79610dacddb325?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Goshen, IN | On Site | Sep 28 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d94121022fc803b4876f67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greencastle, IN | On Site | Sep 28 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d940fb022fc803b4876f37?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fredonia, NY | On Site | Sep 28 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6871452406ad7073463c444a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rocklin, CA | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
