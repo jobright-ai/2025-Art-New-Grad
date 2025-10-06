@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca52425f9f0336447dbae1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Port Clinton, OH | On Site | Oct 05 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c59192db52c07d28843446?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, SC | On Site | Oct 05 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Fulfillment Associate - $16.00/Hour](https://jobright.ai/jobs/info/68705ee301cc0956e7e81784?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Memphis, TN | On Site | Oct 05 |
 | **[Fox Business Network](http://www.foxbusiness.com)** | **[Production Assistant, Mornings with Maria](https://jobright.ai/jobs/info/68c4e2e7db52c07d2883d71c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c57a49c96a22563ece90cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gilbert, AZ | On Site | Oct 04 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Greif](http://greif.com)** | **[Production Associate](https://jobright.ai/jobs/info/68c4b2907279451d6a036ee3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedartown, GA | On Site | Oct 04 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Operations Assistant, GQ](https://jobright.ai/jobs/info/68a78b4e758f2e4ac3fed0f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Mat Roller](https://jobright.ai/jobs/info/68c355f280e77b1fa6fc8676?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | Oct 03 |
+| **[Nature Portfolio](https://www.nature.com)** | **[Associate or Senior Editor (Photocatalysis), Nature Communications](https://jobright.ai/jobs/info/68d60af82116ff37ee091f20?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Oct 03 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cb8f50ba798c1a501d1b35?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Findlay, OH | On Site | Oct 03 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Line Cook - Bazille - International Plaza](https://jobright.ai/jobs/info/68c5078e7d0db4114273183c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tampa, FL | On Site | Oct 03 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV](https://jobright.ai/jobs/info/68c304245adaee6c9bda635e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Justice, IL | On Site | Oct 03 |
@@ -193,5 +195,4 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Backstage Captain, Boca Raton Town Center - Full Time](https://jobright.ai/jobs/info/68da6a3e07c157682e56a117?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 5700 West Glades Road, Boca Raton, FL, 33431, US | On Site | Sep 29 |
 | **[Fever](https://www.feverup.com)** | **[Freelance Event Producer](https://jobright.ai/jobs/info/68c28a5603b99f6b342955e8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago | On Site | Sep 29 |
 | **[Precondo](http://precondo.ca)** | **[Content Curator](https://jobright.ai/jobs/info/68da44f30b832179ca4acfc5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Sep 29 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/687981d1ed63844c9449c39e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | University Park, IL | On Site | Sep 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
