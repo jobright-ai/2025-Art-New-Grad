@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Creative Services Coordinator, Amazon MGM Studios Theatrical](https://jobright.ai/jobs/info/68db9a719f13662d20e4f207?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Culver City, CA | On Site | Sep 30 |
 | **[Nature Portfolio](https://www.nature.com)** | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db9a44e19b9e63ba20fe71?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City, NJ | Hybrid | Sep 30 |
 | ↳ | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db99e6e19b9e63ba20fd74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Sep 30 |
-| **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/68d75dbf61a175619f8ca28b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brevard, NC | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
