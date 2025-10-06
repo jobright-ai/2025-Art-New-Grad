@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca52425f9f0336447dbae1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Port Clinton, OH | On Site | Oct 05 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c59192db52c07d28843446?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, SC | On Site | Oct 05 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c6d785c96a22563eceffb8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elkton, MD | On Site | Oct 05 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Fulfillment Associate - $16.00/Hour](https://jobright.ai/jobs/info/68705ee301cc0956e7e81784?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Memphis, TN | On Site | Oct 05 |
 | **[Fox Business Network](http://www.foxbusiness.com)** | **[Production Assistant, Mornings with Maria](https://jobright.ai/jobs/info/68c4e2e7db52c07d2883d71c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c57a49c96a22563ece90cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gilbert, AZ | On Site | Oct 04 |
@@ -183,11 +184,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9cde6df7b8311bb10147?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO | On Site | Sep 29 |
 | **[Grön](https://eatgron.com)** | **[Packaging Support (Part Time)](https://jobright.ai/jobs/info/68da9c680b832179ca4aec9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, AZ | On Site | Sep 29 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c4d07c157682e56b6c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Georgetown, KY | On Site | Sep 29 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c356df7b8311bb0fff8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, IL | On Site | Sep 29 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c3507c157682e56b685?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meridian, ID | On Site | Sep 29 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c356df7b8311bb0fff8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, IL | On Site | Sep 29 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/6835888cfa8a32692d93e621?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, NY  (Lennox Hill/Third Ave) | On Site | Sep 29 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bcfcddae79610dacddd035?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Goodland, KS | On Site | Sep 29 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bcfcbf68300c452ca17226?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairbury, NE | On Site | Sep 29 |
-| **[UniFirst Corporation](https://unifirst.com/)** | **[Production Team Partner - Garment Inspector & Hanger - UniFirst](https://jobright.ai/jobs/info/68db4d649f13662d20e49a97?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Whippany, NJ | On Site | Sep 29 |
-| **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/6813c351762cbf27701b40d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, WA | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
