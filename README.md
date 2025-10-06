@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c9862af9c6ff7aedf1a9de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 06 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca52425f9f0336447dbae1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Port Clinton, OH | On Site | Oct 05 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c59192db52c07d28843446?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, SC | On Site | Oct 05 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c6d785c96a22563eceffb8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elkton, MD | On Site | Oct 05 |
@@ -67,10 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Fox Business Network](http://www.foxbusiness.com)** | **[Production Assistant, Mornings with Maria](https://jobright.ai/jobs/info/68c4e2e7db52c07d2883d71c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c57a49c96a22563ece90cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gilbert, AZ | On Site | Oct 04 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c43d3714bb275ce0191bce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fenton, MI | On Site | Oct 04 |
-| **[Greif](http://greif.com)** | **[Production Associate](https://jobright.ai/jobs/info/68c4b2907279451d6a036ee3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cedartown, GA | On Site | Oct 04 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Operations Assistant, GQ](https://jobright.ai/jobs/info/68a78b4e758f2e4ac3fed0f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Mat Roller](https://jobright.ai/jobs/info/68c355f280e77b1fa6fc8676?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | Oct 03 |
-| **[Nature Portfolio](https://www.nature.com)** | **[Associate or Senior Editor (Photocatalysis), Nature Communications](https://jobright.ai/jobs/info/68d60af82116ff37ee091f20?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Oct 03 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cb8f50ba798c1a501d1b35?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Findlay, OH | On Site | Oct 03 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Line Cook - Bazille - International Plaza](https://jobright.ai/jobs/info/68c5078e7d0db4114273183c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tampa, FL | On Site | Oct 03 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV](https://jobright.ai/jobs/info/68c304245adaee6c9bda635e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Justice, IL | On Site | Oct 03 |
@@ -128,15 +127,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate or Senior Editor, Nature Photonics](https://jobright.ai/jobs/info/68db5064e19b9e63ba20a8e0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Sep 29 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Full Time Anchor/Producer](https://jobright.ai/jobs/info/68db4cd4e19b9e63ba20a56d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Sep 29 |
 | **[Pavement Coffeehouse](https://pavementcoffeehouse.com)** | **[Roastery Production Assistant](https://jobright.ai/jobs/info/68db497fe19b9e63ba20a3be?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Woburn, MA | On Site | Sep 29 |
-| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Massage Therapist](https://jobright.ai/jobs/info/68db3bcf9f13662d20e48c85?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kapolei, HI | Hybrid | Sep 29 |
-| **[Himalayan Pet Supply](https://www.himalayan.pet)** | **[Production Associate-Packaging](https://jobright.ai/jobs/info/68db3b97e19b9e63ba2097ba?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Arlington, WA | On Site | Sep 29 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - Up to $19.50/Hour](https://jobright.ai/jobs/info/68db385434f2c406da6d575b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Charles, MO | On Site | Sep 29 |
-| **[Fox News Media](https://www.foxnews.com/)** | **[Overnight Writer, Fox News EDGE](https://jobright.ai/jobs/info/68db34689f13662d20e48871?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Sep 29 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68db2e9de9b48513789b275b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sanford, ME | On Site | Sep 29 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68db2df16df7b8311bb16a46?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pasadena, MD | On Site | Sep 29 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/68db2dde6df7b8311bb16a20?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Douglas, GA | On Site | Sep 29 |
-| **[Michigan State University College of Engineering](https://linktr.ee/msuegr)** | **[Actor](https://jobright.ai/jobs/info/68db27156df7b8311bb164d4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | East Lansing, MI | On Site | Sep 29 |
-| **[Skin Laundry](http://www.skinlaundry.com)** | **[Aesthetic Registered Nurse PT - Campbell](https://jobright.ai/jobs/info/68db25c60dffed6f83d2cbb6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Campbell, California, United States | On Site | Sep 29 |
-| **[Qcells North America](http://www.qcells.com/us)** | **[Press Associate](https://jobright.ai/jobs/info/68db220f0dffed6f83d2ca05?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Sep 29 |
-| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/68db2083e9b48513789b2014?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Northfield, MN | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
