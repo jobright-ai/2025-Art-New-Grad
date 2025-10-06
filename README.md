@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db99e6e19b9e63ba20fd74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Sep 30 |
 | **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/68d75dbf61a175619f8ca28b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brevard, NC | On Site | Sep 29 |
 | **[Springer Nature](https://group.springernature.com/)** | **[Associate or Senior Editor, Nature Photonics](https://jobright.ai/jobs/info/68db509d34f2c406da6d6888?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Sep 29 |
-| ↳ | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db506c9f13662d20e49c4f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Sep 29 |
 | ↳ | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db506ce19b9e63ba20a90c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City | Hybrid | Sep 29 |
+| ↳ | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db506c9f13662d20e49c4f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Sep 29 |
 | ↳ | **[Associate or Senior Editor, Nature Sensors](https://jobright.ai/jobs/info/68db50679f13662d20e49c41?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Sep 29 |
 | ↳ | **[Associate or Senior Editor, Nature Photonics](https://jobright.ai/jobs/info/68db5064e19b9e63ba20a8e0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York | Hybrid | Sep 29 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Full Time Anchor/Producer](https://jobright.ai/jobs/info/68db4cd4e19b9e63ba20a56d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Sep 29 |
@@ -183,8 +183,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9cde6df7b8311bb10147?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO | On Site | Sep 29 |
 | **[Grön](https://eatgron.com)** | **[Packaging Support (Part Time)](https://jobright.ai/jobs/info/68da9c680b832179ca4aec9e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendale, AZ | On Site | Sep 29 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c4d07c157682e56b6c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Georgetown, KY | On Site | Sep 29 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c3507c157682e56b685?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meridian, ID | On Site | Sep 29 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c356df7b8311bb0fff8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, IL | On Site | Sep 29 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da9c3507c157682e56b685?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meridian, ID | On Site | Sep 29 |
 | **[Madison Reed](http://www.madison-reed.com)** | **[Assistant Colorist, Licensed Cosmetologist](https://jobright.ai/jobs/info/6835888cfa8a32692d93e621?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York City, NY  (Lennox Hill/Third Ave) | On Site | Sep 29 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bcfcddae79610dacddd035?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Goodland, KS | On Site | Sep 29 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bcfcbf68300c452ca17226?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairbury, NE | On Site | Sep 29 |
@@ -193,6 +193,4 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Content Producer](https://jobright.ai/jobs/info/68cf24ffdbd9fb154ede545e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rochester, NY | On Site | Sep 29 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bca4553bf9eb44f83245eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hudson, NY | On Site | Sep 29 |
 | **[Macy's](http://www.macysjobs.com)** | **[Backstage Captain, Boca Raton Town Center - Full Time](https://jobright.ai/jobs/info/68da6a3e07c157682e56a117?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 5700 West Glades Road, Boca Raton, FL, 33431, US | On Site | Sep 29 |
-| **[Fever](https://www.feverup.com)** | **[Freelance Event Producer](https://jobright.ai/jobs/info/68c28a5603b99f6b342955e8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago | On Site | Sep 29 |
-| **[Precondo](http://precondo.ca)** | **[Content Curator](https://jobright.ai/jobs/info/68da44f30b832179ca4acfc5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
