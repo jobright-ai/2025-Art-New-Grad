@@ -68,6 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c594277d0db411427348c8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Utica, MI | On Site | Oct 05 |
 | **[Fanatics](http://www.fanaticsinc.com)** | **[Star Wars Associate Producer](https://jobright.ai/jobs/info/6838a631fd63d5b213932027?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 05 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV](https://jobright.ai/jobs/info/68c67957db52c07d288493cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sacramento, CA | On Site | Oct 05 |
+| **[Troon](http://www.troon.com/)** | **[Asst Golf Professional](https://jobright.ai/jobs/info/68a76b4333dd7158bbca6d2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | On Site | Oct 04 |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca656706a34016008c8275?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Petoskey, MI | On Site | Oct 04 |
 | **[Fox Business Network](http://www.foxbusiness.com)** | **[Production Assistant, Mornings with Maria](https://jobright.ai/jobs/info/68c4e2e7db52c07d2883d71c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c57a49c96a22563ece90cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gilbert, AZ | On Site | Oct 04 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c43d3714bb275ce0191bce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fenton, MI | On Site | Oct 04 |
@@ -113,6 +115,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca6c2b5f9f0336447dd906?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clinton, NJ | On Site | Sep 30 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bfa1cc702aa35207aa81ff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chandler, AZ | On Site | Sep 30 |
 | **[University of Illinois Springfield](http://www.uis.edu/)** | **[Extra Help Stagehand - 50 vacancies](https://jobright.ai/jobs/info/68749484ae2f413e4a59d9f4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, IL | On Site | Sep 30 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/68a35d7a1ab5f8579e8a5022?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Sep 30 |
-| **[UniFirst Corporation](https://unifirst.com/)** | **[Production Team Partner - Garment Inspector & Hanger - UniFirst](https://jobright.ai/jobs/info/68cef683fb49c96ca6ea48f9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hyattsville, MD | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
