@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/68acbca5758f2e4ac30083eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indian Wells, CA | On Site | Oct 07 |
+| **[ProMach](http://www.promachbuilt.com/)** | **[Press Assistant](https://jobright.ai/jobs/info/68c86570f9c6ff7aedf0dc0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hauppauge, NY | On Site | Oct 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Spanish Language Multimedia Journalist](https://jobright.ai/jobs/info/68cd409fe23def7af55b73fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yakima, WA | On Site | Oct 07 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/68a3afa7403ad4363b1c2ef0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lone Tree, CO | On Site | Oct 06 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d197e4cece431f8b58591b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fremont, OH | On Site | Oct 06 |
@@ -114,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[The RealReal](http://www.therealreal.com)** | **[Associate Specialist, FJW](https://jobright.ai/jobs/info/68bfcc188e65e77df55bd2b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Oct 01 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift - Temporary](https://jobright.ai/jobs/info/68a3b04f37d3cc6b0d578cb9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gilroy, CA | On Site | Oct 01 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68bf4d108e65e77df55b92b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kearney, NE | On Site | Sep 30 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d24367a54edb3bf3e1cc5a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harleysville, PA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
