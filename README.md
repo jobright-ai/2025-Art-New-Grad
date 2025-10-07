@@ -112,6 +112,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d24367a54edb3bf3e1cc5a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Harleysville, PA | On Site | Sep 30 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[MultiMedia Journalist](https://jobright.ai/jobs/info/68bf85b38e65e77df55bb195?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colchester, VT | Hybrid | Sep 30 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/68a35d99403ad4363b1c0696?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Sep 30 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68befabd702aa35207aa2052?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Waynesboro, GA | On Site | Sep 30 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca6c2b5f9f0336447dd906?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clinton, NJ | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
