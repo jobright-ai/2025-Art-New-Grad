@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c9862af9c6ff7aedf1a9de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 06 |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d197e4cece431f8b58591b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fremont, OH | On Site | Oct 06 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c9862af9c6ff7aedf1a9de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 06 |
+| **[ASCAP](http://www.ascap.com/)** | **[Membership Coordinator, Creative Membership](https://jobright.ai/jobs/info/68cd5c68b2a74e1837ed5fc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca52425f9f0336447dbae1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Port Clinton, OH | On Site | Oct 05 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c59192db52c07d28843446?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, SC | On Site | Oct 05 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c6d785c96a22563eceffb8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elkton, MD | On Site | Oct 05 |
