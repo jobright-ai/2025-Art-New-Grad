@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/68a3afa7403ad4363b1c2ef0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lone Tree, CO | On Site | Oct 06 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d197e4cece431f8b58591b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fremont, OH | On Site | Oct 06 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c9862af9c6ff7aedf1a9de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 06 |
 | **[ASCAP](http://www.ascap.com/)** | **[Membership Coordinator, Creative Membership](https://jobright.ai/jobs/info/68cd5c68b2a74e1837ed5fc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
@@ -114,11 +115,4 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Springfield](http://www.uis.edu/)** | **[Extra Help Stagehand - 50 vacancies](https://jobright.ai/jobs/info/68749484ae2f413e4a59d9f4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, IL | On Site | Sep 30 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/68a35d7a1ab5f8579e8a5022?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Sep 30 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Production Team Partner - Garment Inspector & Hanger - UniFirst](https://jobright.ai/jobs/info/68cef683fb49c96ca6ea48f9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hyattsville, MD | On Site | Sep 30 |
-| **[Hobby Lobby](http://hobbylobby.com)** | **[Custom Framer](https://jobright.ai/jobs/info/68d59c1314935e31e231a4b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Sep 30 |
-| **[Nature Portfolio](https://www.nature.com)** | **[Associate or Senior Editor, Nature Photonics](https://jobright.ai/jobs/info/68db9ae734f2c406da6dbba8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City, NJ | On Site | Sep 30 |
-| ↳ | **[Associate or Senior Editor, Nature Photonics](https://jobright.ai/jobs/info/68db9ae59f13662d20e4f369?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Sep 30 |
-| ↳ | **[Associate or Senior Editor, Nature Sensors](https://jobright.ai/jobs/info/68db9adf9f13662d20e4f356?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Sep 30 |
-| **[Amazon](https://amazon.com)** | **[Creative Services Coordinator, Amazon MGM Studios Theatrical](https://jobright.ai/jobs/info/68db9a719f13662d20e4f207?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Culver City, CA | On Site | Sep 30 |
-| **[Nature Portfolio](https://www.nature.com)** | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db9a44e19b9e63ba20fe71?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jersey City, NJ | Hybrid | Sep 30 |
-| ↳ | **[Associate or Senior Editor, Nature Climate Change](https://jobright.ai/jobs/info/68db99e6e19b9e63ba20fd74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
