@@ -87,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c43d3714bb275ce0191bce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fenton, MI | On Site | Oct 04 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c57abbc96a22563ece910c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Leavenworth, KS | On Site | Oct 04 |
 | **[Condé Nast](http://www.condenast.com)** | **[Editorial Operations Assistant, GQ](https://jobright.ai/jobs/info/68a78b4e758f2e4ac3fed0f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 04 |
+| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Translator](https://jobright.ai/jobs/info/68cbe311ba798c1a501d5d30?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toms River, NJ | On Site | Oct 04 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cf400bfb49c96ca6ea67b3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marshalltown, IA | On Site | Oct 03 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d8ed50022fc803b4876752?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Franklin, OH | On Site | Oct 03 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Mat Roller](https://jobright.ai/jobs/info/68c355f280e77b1fa6fc8676?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | Oct 03 |
@@ -109,8 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da747207c157682e56a4b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Idaho Falls, ID | On Site | Oct 02 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c0f4b4702aa35207ab2079?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chandler, AZ | On Site | Oct 02 |
 | **[FOX Weather](https://foxweather.com)** | **[Associate Assignment Editor](https://jobright.ai/jobs/info/68d6f26e45853d0e39ccb2f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 02 |
-| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Translator](https://jobright.ai/jobs/info/68cbe311ba798c1a501d5d30?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toms River, NJ | On Site | Oct 01 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d7706461a175619f8cd769?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Oct 01 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c19ca03fd8b059a20f0f4c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Macedonia, OH | On Site | Oct 01 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d46ca58c62e63bc7fe9380?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clarkston, WA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
