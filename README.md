@@ -59,7 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c83b15983e6768bc54b005?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dayton, OH | On Site | Oct 07 |
 | **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/68acbca5758f2e4ac30083eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indian Wells, CA | On Site | Oct 07 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder](https://jobright.ai/jobs/info/68c8eedcf9c6ff7aedf14c3f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | Oct 07 |
 | **[ProMach](http://www.promachbuilt.com/)** | **[Press Assistant](https://jobright.ai/jobs/info/68c86570f9c6ff7aedf0dc0f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hauppauge, NY | On Site | Oct 07 |
+| **[UHY-US](https://uhy-us.com/)** | **[Licensed Assistant](https://jobright.ai/jobs/info/68130073382bed64f9d4518d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Oct 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Spanish Language Multimedia Journalist](https://jobright.ai/jobs/info/68cd409fe23def7af55b73fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yakima, WA | On Site | Oct 07 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/68a3afa7403ad4363b1c2ef0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lone Tree, CO | On Site | Oct 06 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d197e4cece431f8b58591b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fremont, OH | On Site | Oct 06 |
@@ -106,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[FOX Weather](https://foxweather.com)** | **[Associate Assignment Editor](https://jobright.ai/jobs/info/68d6f26e45853d0e39ccb2f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 02 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Translator](https://jobright.ai/jobs/info/68cbe311ba798c1a501d5d30?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toms River, NJ | On Site | Oct 01 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d7706461a175619f8cd769?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Oct 01 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c19ca03fd8b059a20f0f4c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Macedonia, OH | On Site | Oct 01 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d46ca58c62e63bc7fe9380?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clarkston, WA | On Site | Oct 01 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68db781234f2c406da6d85b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greensburg, IN | On Site | Oct 01 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cf4642846f0b04af68015f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oskaloosa, IA | On Site | Oct 01 |
@@ -115,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/6660b55ede5012e08980e84d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sonora, CA | On Site | Oct 01 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter - $17.00/Hour](https://jobright.ai/jobs/info/68c0b7dc8e65e77df55c3cff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Rapids, MI | On Site | Oct 01 |
 | **[The RealReal](http://www.therealreal.com)** | **[Associate Specialist, FJW](https://jobright.ai/jobs/info/68bfcc188e65e77df55bd2b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Oct 01 |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift - Temporary](https://jobright.ai/jobs/info/68a3b04f37d3cc6b0d578cb9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gilroy, CA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
