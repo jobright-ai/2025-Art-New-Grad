@@ -112,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d7706461a175619f8cd769?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Oct 01 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c19ca03fd8b059a20f0f4c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Macedonia, OH | On Site | Oct 01 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d46ca58c62e63bc7fe9380?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clarkston, WA | On Site | Oct 01 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68db781234f2c406da6d85b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greensburg, IN | On Site | Oct 01 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cf4642846f0b04af68015f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oskaloosa, IA | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
