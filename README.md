@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da747207c157682e56a4b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Idaho Falls, ID | On Site | Oct 02 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c0f4b4702aa35207ab2079?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chandler, AZ | On Site | Oct 02 |
 | **[FOX Weather](https://foxweather.com)** | **[Associate Assignment Editor](https://jobright.ai/jobs/info/68d6f26e45853d0e39ccb2f7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 02 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d7706461a175619f8cd769?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Birmingham, AL | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
