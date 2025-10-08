@@ -65,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[UHY-US](https://uhy-us.com/)** | **[Licensed Assistant](https://jobright.ai/jobs/info/68130073382bed64f9d4518d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albany, NY | On Site | Oct 07 |
 | **[Nintendo](http://nintendo.com)** | **[Localization Editor - Spanish](https://jobright.ai/jobs/info/68908f0df5ee707a15db7446?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Redmond, WA | Hybrid | Oct 07 |
 | **[Sinclair Inc.](http://sbgi.net)** | **[Spanish Language Multimedia Journalist](https://jobright.ai/jobs/info/68cd409fe23def7af55b73fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yakima, WA | On Site | Oct 07 |
+| ↳ | **[Multimedia Journalist (MMJ)](https://jobright.ai/jobs/info/68c73949c96a22563ecf095b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Redding, CA | On Site | Oct 07 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/68a3afa7403ad4363b1c2ef0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lone Tree, CO | On Site | Oct 06 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d197e4cece431f8b58591b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fremont, OH | On Site | Oct 06 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c9862af9c6ff7aedf1a9de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 06 |
