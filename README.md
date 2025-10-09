@@ -79,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Spanish Language Multimedia Journalist](https://jobright.ai/jobs/info/68cd409fe23def7af55b73fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yakima, WA | On Site | Oct 07 |
 | ↳ | **[Multimedia Journalist (MMJ)](https://jobright.ai/jobs/info/68c73949c96a22563ecf095b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Redding, CA | On Site | Oct 07 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/673dd71d09fb38bd3b493e0a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pulaski, NY | On Site | Oct 06 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Production Tech](https://jobright.ai/jobs/info/6853d935dfedcc9328311f50?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Oct 06 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/68a3afa7403ad4363b1c2ef0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lone Tree, CO | On Site | Oct 06 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d197e4cece431f8b58591b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fremont, OH | On Site | Oct 06 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c9862af9c6ff7aedf1a9de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 06 |
@@ -123,5 +124,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/68c86818983e6768bc54ce4b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Fe Springs, CA | On Site | Oct 03 |
 | ↳ | **[Production Associate - Garment Hanger/Inspector - Cleanroom - Up to $18.00/Hour](https://jobright.ai/jobs/info/68c3043263829b0a8a4fed29?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Graham, NC | On Site | Oct 03 |
 | ↳ | **[Production Associate - Utility IV - 2nd Shift](https://jobright.ai/jobs/info/68cf31e3dbd9fb154ede59c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Oct 03 |
-| **[Gannett | USA TODAY NETWORK](http://www.gannett.com)** | **[Atlanta Connect Reporter](https://jobright.ai/jobs/info/68cf1cd4846f0b04af67f5b5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
