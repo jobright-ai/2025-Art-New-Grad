@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b0765fb47fb001d6892810?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edinboro, PA | On Site | Oct 09 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Comedy Touring Rotational Assistant](https://jobright.ai/jobs/info/68cfffb1fb49c96ca6ead341?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, CA | On Site | Oct 09 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca97a648d2e97b0d61eb4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quincy, MA | On Site | Oct 08 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c985c5f9c6ff7aedf1a932?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, IL | On Site | Oct 08 |
