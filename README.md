@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Comedy Touring Rotational Assistant](https://jobright.ai/jobs/info/68cfffb1fb49c96ca6ead341?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beverly Hills, CA | On Site | Oct 09 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca97a648d2e97b0d61eb4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quincy, MA | On Site | Oct 08 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c985c5f9c6ff7aedf1a932?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, IL | On Site | Oct 08 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Production Assistant, Creative](https://jobright.ai/jobs/info/68c899c4f9c6ff7aedf10a89?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | ↳ | **[Production Assistant, Creative](https://jobright.ai/jobs/info/68c8a6b195f5211cd2ce7eb7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Wardrobe Attendant- $17.81- $18.06/hr.](https://jobright.ai/jobs/info/68c97ee3a0c52d598ea37ef0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Clarita, CA | On Site | Oct 08 |
@@ -88,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca52425f9f0336447dbae1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Port Clinton, OH | On Site | Oct 05 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c59192db52c07d28843446?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, SC | On Site | Oct 05 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c6d785c96a22563eceffb8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elkton, MD | On Site | Oct 05 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Fright Fest Scare Actor](https://jobright.ai/jobs/info/68c5dfac7d0db41142735315?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Queensbury, NY | On Site | Oct 05 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Fulfillment Associate - $16.00/Hour](https://jobright.ai/jobs/info/68705ee301cc0956e7e81784?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Memphis, TN | On Site | Oct 05 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c5886bc96a22563ece930f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Troutdale, OR | On Site | Oct 05 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Business of Tech Reporter](https://jobright.ai/jobs/info/68cd1a9ee23def7af55b562c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 05 |
