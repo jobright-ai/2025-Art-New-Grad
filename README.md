@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Gannett | USA TODAY NETWORK](http://www.gannett.com)** | **[Atlanta Connect Reporter](https://jobright.ai/jobs/info/68cf1cd4846f0b04af67f5b5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Oct 02 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - $17.00 to $20.00/Hour](https://jobright.ai/jobs/info/68c2926103b99f6b34296646?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Evansville, IN | On Site | Oct 02 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68da747207c157682e56a4b7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Idaho Falls, ID | On Site | Oct 02 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c0f4b4702aa35207ab2079?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chandler, AZ | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
