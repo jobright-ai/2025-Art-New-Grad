@@ -115,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c438d414bb275ce0191acf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Pleasant, PA | On Site | Oct 04 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cf400bfb49c96ca6ea67b3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marshalltown, IA | On Site | Oct 03 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d8ed50022fc803b4876752?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Franklin, OH | On Site | Oct 03 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cb8f50ba798c1a501d1b35?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Findlay, OH | On Site | Oct 03 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Line Cook - Bazille - International Plaza](https://jobright.ai/jobs/info/68c5078e7d0db4114273183c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tampa, FL | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
