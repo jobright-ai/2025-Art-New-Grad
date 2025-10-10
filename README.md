@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b0765fb47fb001d6892810?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Edinboro, PA | On Site | Oct 09 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca97a648d2e97b0d61eb4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quincy, MA | On Site | Oct 08 |
+| **[Warner Music Group](http://www.wmg.com)** | **[Assistant, A&R - Pop/Rock/Country](https://jobright.ai/jobs/info/68d75664295f8e37655d4da8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
+| **[Nature Portfolio](https://www.nature.com/nature-portfolio)** | **[Associate or Senior Editor, Nature Materials](https://jobright.ai/jobs/info/68cb4ba29e3a822f5d244a5e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Oct 09 |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c985cef9c6ff7aedf1a94f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Abilene, TX | On Site | Oct 08 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca97a648d2e97b0d61eb4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quincy, MA | On Site | Oct 08 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c985c5f9c6ff7aedf1a932?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, IL | On Site | Oct 08 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Production Assistant, Creative](https://jobright.ai/jobs/info/68c899c4f9c6ff7aedf10a89?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | ↳ | **[Production Assistant, Creative](https://jobright.ai/jobs/info/68c8a6b195f5211cd2ce7eb7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 08 |
