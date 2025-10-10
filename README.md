@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cf4200846f0b04af67ff86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mesa, AZ | On Site | Oct 09 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Assistant, A&R - Pop/Rock/Country](https://jobright.ai/jobs/info/68d75664295f8e37655d4da8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
 | **[Nature Portfolio](https://www.nature.com/nature-portfolio)** | **[Associate or Senior Editor, Nature Materials](https://jobright.ai/jobs/info/68cb4ba29e3a822f5d244a5e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Oct 09 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c985cef9c6ff7aedf1a94f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Abilene, TX | On Site | Oct 08 |
