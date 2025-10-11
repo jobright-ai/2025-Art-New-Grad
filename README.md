@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cd53f2b2a74e1837ed5676?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Pleasant, SC | On Site | Oct 11 |
+| **[Sinclair Inc.](http://sbgi.net/)** | **[Multimedia Journalist (MMJ)](https://jobright.ai/jobs/info/6893c6a0a9199876488e01e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amarillo, TX | On Site | Oct 11 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter II](https://jobright.ai/jobs/info/68d4d0cc8c62e63bc7fecc2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 10 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cd77091ad6b16f02899bfa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Louisville, KY | On Site | Oct 10 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/68cca7d216d00d2beeb2274c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Liverpool, NY | On Site | Oct 10 |
@@ -76,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Warner Music Group](http://www.wmg.com)** | **[Production Assistant, Creative](https://jobright.ai/jobs/info/68c899c4f9c6ff7aedf10a89?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 08 |
 | ↳ | **[Production Assistant, Creative](https://jobright.ai/jobs/info/68c8a6b195f5211cd2ce7eb7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 08 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Wardrobe Attendant- $17.81- $18.06/hr.](https://jobright.ai/jobs/info/68c97ee3a0c52d598ea37ef0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Clarita, CA | On Site | Oct 08 |
+| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Showcase Presenter](https://jobright.ai/jobs/info/68922636f47efe211395a191?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kihei, HI | On Site | Oct 08 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/68d24c0f8c62e63bc7fd6a19?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Eagan, MN | On Site | Oct 08 |
 | ↳ | **[Production Associate - Garment Hanger/Inspector - 2nd Shift - $16.00/Hour](https://jobright.ai/jobs/info/68cf0365dbd9fb154ede45cb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lansing, MI | On Site | Oct 08 |
 | **[Kohler Hospitality](https://www.kohlerwisconsin.com/)** | **[Golf Course Maintenance Worker, Blackwolf Run & Whistling Straits](https://jobright.ai/jobs/info/68db7ffae19b9e63ba20ca03?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kohler, WI | On Site | Oct 08 |
@@ -96,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/68a3afa7403ad4363b1c2ef0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lone Tree, CO | On Site | Oct 06 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d197e4cece431f8b58591b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fremont, OH | On Site | Oct 06 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c9862af9c6ff7aedf1a9de?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Laurel, NJ | On Site | Oct 06 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca3dfdf61c922772a75825?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Carmel, IN | On Site | Oct 06 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cebd68fb49c96ca6ea311d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fishers, IN | On Site | Oct 06 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c6d5f1db52c07d28849cd5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, NE | On Site | Oct 05 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d182becece431f8b58496f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Charles, MO | On Site | Oct 05 |
