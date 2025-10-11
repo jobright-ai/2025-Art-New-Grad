@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter II](https://jobright.ai/jobs/info/68d4d0cc8c62e63bc7fecc2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colorado Springs, CO | On Site | Oct 10 |
+| **[Gannett | USA TODAY NETWORK](http://www.gannett.com)** | **[Sports Reporter, Poughkeepsie NY](https://jobright.ai/jobs/info/68ae5db0daf1431824ca293e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Poughkeepsie, NY | On Site | Oct 10 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cf4200846f0b04af67ff86?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mesa, AZ | On Site | Oct 09 |
 | **[Warner Music Group](http://www.wmg.com)** | **[Assistant, A&R - Pop/Rock/Country](https://jobright.ai/jobs/info/68d75664295f8e37655d4da8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 09 |
 | **[Nature Portfolio](https://www.nature.com/nature-portfolio)** | **[Associate or Senior Editor, Nature Materials](https://jobright.ai/jobs/info/68cb4ba29e3a822f5d244a5e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Oct 09 |
@@ -106,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Troon](http://www.troon.com/)** | **[Asst Golf Professional](https://jobright.ai/jobs/info/68a76b4333dd7158bbca6d2b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Philadelphia, PA | On Site | Oct 04 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca656706a34016008c8275?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Petoskey, MI | On Site | Oct 04 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Assistant Fashion Editor, Harper's Bazaar](https://jobright.ai/jobs/info/68c8683b983e6768bc54ce7e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Oct 04 |
-| **[Fox Business Network](http://www.foxbusiness.com)** | **[Production Assistant, Mornings with Maria](https://jobright.ai/jobs/info/68c4e2e7db52c07d2883d71c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
