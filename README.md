@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68db685fe19b9e63ba20bdb9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sun Prairie, WI | On Site | Oct 11 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cea15afb49c96ca6ea23cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walpole, MA | On Site | Oct 11 |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cea15afb49c96ca6ea23cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walpole, MA | On Site | Oct 11 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cd53f2b2a74e1837ed5676?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Pleasant, SC | On Site | Oct 11 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter](https://jobright.ai/jobs/info/68ceafe1846f0b04af67c4df?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Renton, WA | On Site | Oct 11 |
 | ↳ | **[Production Associate - Garment Hanger/Inspector - $17+/Hour](https://jobright.ai/jobs/info/68ce65eefb49c96ca6e9ff62?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bessemer, AL | On Site | Oct 11 |
@@ -114,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c6d5f1db52c07d28849cd5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, NE | On Site | Oct 05 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d182becece431f8b58496f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Charles, MO | On Site | Oct 05 |
 | **[ASCAP](http://www.ascap.com/)** | **[Membership Coordinator, Creative Membership](https://jobright.ai/jobs/info/68cd5c68b2a74e1837ed5fc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c59192db52c07d28843446?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, SC | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
