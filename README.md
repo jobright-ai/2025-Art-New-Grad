@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna Legal Services](http://magnals.com)** | **[Maggie™ Court Reporter](https://jobright.ai/jobs/info/68c853e1f9c6ff7aedf0d075?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami-Dade County, FL | Hybrid | Oct 13 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Production Team Partner - Garment Inspector & Hanger - UniFirst](https://jobright.ai/jobs/info/68d0c760fb49c96ca6eb040f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Oct 13 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6676c69b807f31af72077556?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Prescott, AZ | On Site | Oct 13 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662af311e0f2d0369fb50b7c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | La Canada Flintridge, CA | On Site | Oct 13 |
 | **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Production Assistant](https://jobright.ai/jobs/info/683bef89ba832780a8fd56d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 13 |
+| **[Torrid](http://www.torrid.com/)** | **[Freelance Fitting Model (Sample Size 18)](https://jobright.ai/jobs/info/67b0a406c14b06280b993251?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | City of Industry, CA | On Site | Oct 12 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d00fff846f0b04af687480?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spring, TX | On Site | Oct 12 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cf1c7b846f0b04af67f51e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delavan, WI | On Site | Oct 12 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Production Team Partner - Garment Inspector & Hanger - UniFirst](https://jobright.ai/jobs/info/68cf6ba3dbd9fb154ede7b4e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gardena, CA | On Site | Oct 12 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b31eac1ade4306aa63ac88?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sturgeon Bay, WI | On Site | Oct 12 |
 | **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Translator](https://jobright.ai/jobs/info/68cbe311ba798c1a501d5d30?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Toms River, NJ | On Site | Oct 12 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Naughty Dog](http://www.naughtydog.com)** | **[Gameplay Capture Artist (Contingent)](https://jobright.ai/jobs/info/689545768c6d6b442677880d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA | On Site | Oct 12 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance](https://jobright.ai/jobs/info/68985aa55574fd6bc0c78c9a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairview, TX | On Site | Oct 12 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cec269fb49c96ca6ea33b3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cornelius, OR | On Site | Oct 12 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cd80dd1ad6b16f0289a75d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Portsmouth, NH | On Site | Oct 11 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c2af7a5001f8077bf5d28e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Crawfordsville, IN | On Site | Oct 11 |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c2af7a5001f8077bf5d28e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Crawfordsville, IN | On Site | Oct 11 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cd7805e23def7af55ba1cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, NE | On Site | Oct 11 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cea15afb49c96ca6ea23cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Walpole, MA | On Site | Oct 11 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ce2146e23def7af55c2725?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Beatrice, NE | On Site | Oct 11 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Sorter](https://jobright.ai/jobs/info/68ceafe1846f0b04af67c4df?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Renton, WA | On Site | Oct 11 |
