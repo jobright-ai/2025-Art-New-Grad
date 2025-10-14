@@ -58,12 +58,15 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/662af318e0f2d0369fb50bbb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Walton Beach, FL | On Site | Oct 14 |
+| **[Trailer Park Group](https://trailerparkgroup.com/)** | **[Freelance Game Capture Artist](https://jobright.ai/jobs/info/68d24ce38c62e63bc7fd6bea?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 14 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6676e011c909276a3772d4d2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Morgantown, WV | On Site | Oct 14 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65e88259b7f15e54908a3788?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Oct 14 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676cebc131cc9dd67df25bd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Millington, TN | On Site | Oct 14 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664f427cad2d60bfd323276f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lexington, KY | On Site | Oct 14 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/664f427cad2d60bfd323276b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Herriman, UT | On Site | Oct 13 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d169c98c62e63bc7fcb0f9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meridian, ID | On Site | Oct 13 |
 | ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d164dcfa731f61692de7ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Windham, ME | On Site | Oct 13 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cecc02fb49c96ca6ea396c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mebane, NC | On Site | Oct 13 |
 | **[Magna Legal Services](http://magnals.com)** | **[Maggie™ Court Reporter](https://jobright.ai/jobs/info/68c853e1f9c6ff7aedf0d075?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami-Dade County, FL | Hybrid | Oct 13 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Production Team Partner - Garment Inspector & Hanger - UniFirst](https://jobright.ai/jobs/info/68d0c760fb49c96ca6eb040f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Oct 13 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/662af318e0f2d0369fb50bb5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tinley Park, IL | On Site | Oct 13 |
@@ -131,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder](https://jobright.ai/jobs/info/68cd09671ad6b16f02893989?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ontario, CA | On Site | Oct 08 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 3rd Shift - Up to $21.50/Hour](https://jobright.ai/jobs/info/68c86a1595f5211cd2ce4ad9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Memphis, TN | On Site | Oct 07 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Private Event Coordinator / Full-Time / The Texas Tech Club](https://jobright.ai/jobs/info/68d770e97a37c712687cd2f4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lubbock, TX | On Site | Oct 07 |
-| **[Home Chef](https://www.homechef.com)** | **[Content Creator](https://jobright.ai/jobs/info/68c8c1e1983e6768bc551462?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
