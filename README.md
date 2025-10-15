@@ -82,8 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662af2d8e0f2d0369fb5054c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amarillo, TX | On Site | Oct 13 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676c61f807f31af72076bdd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 13 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664f427cad2d60bfd323276b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Herriman, UT | On Site | Oct 13 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d169c98c62e63bc7fcb0f9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Meridian, ID | On Site | Oct 13 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d164dcfa731f61692de7ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Windham, ME | On Site | Oct 13 |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68d164dcfa731f61692de7ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Windham, ME | On Site | Oct 13 |
 | **[Magna Legal Services](http://magnals.com)** | **[Maggie™ Court Reporter](https://jobright.ai/jobs/info/68c853e1f9c6ff7aedf0d075?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami-Dade County, FL | Hybrid | Oct 13 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Production Team Partner - Garment Inspector & Hanger - UniFirst](https://jobright.ai/jobs/info/68d0c760fb49c96ca6eb040f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Oct 13 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/662af318e0f2d0369fb50bb5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tinley Park, IL | On Site | Oct 13 |
@@ -137,7 +136,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Production Associate - Mender](https://jobright.ai/jobs/info/68cb79eaba798c1a501d0257?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Cloud, MN | On Site | Oct 08 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c985cef9c6ff7aedf1a94f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Abilene, TX | On Site | Oct 08 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Writer, FOX & Friends](https://jobright.ai/jobs/info/68cb927cefdec76df36bef58?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Oct 08 |
-| **[Wine Enthusiast](http://www.wineenthusiast.com)** | **[Temporary Assistant Tasting Coordinator](https://jobright.ai/jobs/info/68cd1061b2a74e1837ed195d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Valhalla, NY | Hybrid | Oct 08 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ca97a648d2e97b0d61eb4d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Quincy, MA | On Site | Oct 08 |
-| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68c985c5f9c6ff7aedf1a932?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, IL | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
