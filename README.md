@@ -193,6 +193,4 @@ For a complete list, click the following sortable link below:
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/67c9a36ae3c71a18db9a8c74?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 11 |
 | ↳ | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/68cd31ceb2a74e1837ed3bc6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Oct 11 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Multimedia Journalist (MMJ)](https://jobright.ai/jobs/info/6893c6a0a9199876488e01e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amarillo, TX | On Site | Oct 11 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Coordinator, Programming Strategy & Operations](https://jobright.ai/jobs/info/68cc4e9c128dc347fd922372?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Oct 10 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Reporter - Natural Gas Liquids](https://jobright.ai/jobs/info/68cc5c1b7342c7623ae6318d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | Remote | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
