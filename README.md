@@ -186,5 +186,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Court Reporter II](https://jobright.ai/jobs/info/68d4d046ffc1276de3fde3ff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sterling, CO | On Site | Oct 10 |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68ce4a89fb49c96ca6e9e894?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kahului, HI | On Site | Oct 10 |
 | **[CELINE](https://www.celine.com)** | **[VIP ASSISTANT](https://jobright.ai/jobs/info/68b3a453bc187f64e1be06a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | On Site | Oct 10 |
-| **[Gannett | USA TODAY NETWORK](http://www.gannett.com)** | **[Sports Reporter, Poughkeepsie NY](https://jobright.ai/jobs/info/68ae5db0daf1431824ca293e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Poughkeepsie, NY | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
