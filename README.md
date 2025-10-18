@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b8b68b5b42bc45628273d6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cloquet, MN | On Site | Oct 17 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/68b9b6d75f383274918603f4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lawrence, KS | On Site | Oct 17 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6786bb2767a7a976f6f1afab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake Dallas, TX | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677c2592b6ed5133f443e45?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Oct 17 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/66df825c988d0f46b830536b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Aubrey, TX | On Site | Oct 17 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/667162a755587f44f144569d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Simpsonville, SC | On Site | Oct 16 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6710a3ccdb980f1b4cbd54c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Easley, SC | On Site | Oct 16 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/674d64f27ad8bdc326b8f4a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Caldwell, ID | On Site | Oct 16 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/660c5b6e259fd4b11cbbfc0d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Destin, FL | On Site | Oct 16 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/68d7758e295f8e37655d9e30?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Oct 16 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6676b35ca2f49d4e236dc2a4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Durango, CO | On Site | Oct 16 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676bbe49b9f24e2dbdca645?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Melbourne, FL | On Site | Oct 16 |
@@ -110,6 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality](https://jobright.ai/jobs/info/68d02146846f0b04af687c95?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 15 |
 | **[Batesville](https://www.batesville.com)** | **[Production Associate - 1st Shift](https://jobright.ai/jobs/info/68d2b13cf0d9af73038da192?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Batesville, IN | On Site | Oct 15 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/66934f9f5d386ebc07d0fef8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blackwood, NJ | On Site | Oct 15 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66925d0debeb149af4b2785d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Forked River, NJ | On Site | Oct 15 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664f427cad2d60bfd323277a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spokane, WA | On Site | Oct 15 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f427cad2d60bfd3232767?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Prosper, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664def5acf7bdc8f73b3bfbe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Worth, TX | On Site | Oct 15 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Production Stagehand](https://jobright.ai/jobs/info/68d4fa67e678d65ec7d8a364?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakland, CA | On Site | Oct 15 |
