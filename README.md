@@ -118,13 +118,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f427cad2d60bfd3232767?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Prosper, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664def5acf7bdc8f73b3bfbe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Worth, TX | On Site | Oct 15 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Production Stagehand](https://jobright.ai/jobs/info/68d4fa67e678d65ec7d8a364?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakland, CA | On Site | Oct 15 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6677bc9f27c0e726e8f4dbb7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 15 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Fulfillment Associate - Temporary - $17.00/Hour](https://jobright.ai/jobs/info/68d77c5c7a37c712687cf187?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Joseph, MO | On Site | Oct 15 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/664f4284ad2d60bfd323280a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glassboro, NJ | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662ae427181892cf3f90a4c0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lewisville, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66760de4ad2dd17614c4883e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheyenne, WY | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6751c11f8684b1a645ef9712?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brunswick, GA | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664f355d74b9d07f40fc47c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brookfield, WI | On Site | Oct 15 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc401?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677b7739c2d9fa5bf087bbf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Encinitas, CA | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/672b4a63abe149880bd2d728?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sulphur, LA | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664def5acf7bdc8f73b3bfe5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baytown, TX | On Site | Oct 15 |
@@ -232,5 +232,4 @@ For a complete list, click the following sortable link below:
 | **[Naughty Dog](http://www.naughtydog.com)** | **[Gameplay Capture Artist (Contingent)](https://jobright.ai/jobs/info/689545768c6d6b442677880d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA | On Site | Oct 12 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance](https://jobright.ai/jobs/info/68985aa55574fd6bc0c78c9a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairview, TX | On Site | Oct 12 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[A&R Scout - RCA](https://jobright.ai/jobs/info/68cee968846f0b04af67dc45?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Culver City, CA | On Site | Oct 11 |
-| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/68cec552dbd9fb154ede28ff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Durango, CO | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
