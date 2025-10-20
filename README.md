@@ -252,15 +252,4 @@ For a complete list, click the following sortable link below:
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664dffd4d79e0cf765500fd5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, TX | On Site | Oct 13 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/67537993b637c6eabd3042ed?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | El Cajon, CA | On Site | Oct 13 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/65f8bba14384d5334802423b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Gainesville, TX | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664def20cf7bdc8f73b3bacb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Covington, LA | On Site | Oct 13 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6694f662f8f235777dbf9958?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ardmore, OK | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676d87c4ffdc62f7b6799c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boerne, TX | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676c69b807f31af72077556?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Prescott, AZ | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65eb6cddd58836d6a0880de7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cleburne, TX | On Site | Oct 13 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6676c67e807f31af7207724d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mount Juliet, TN | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662ae427181892cf3f90a534?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | The Woodlands, TX | On Site | Oct 13 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6676cf78131cc9dd67df3273?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendora, CA | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664de01e0790ade97e15e15e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Worth, TX | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662af311e0f2d0369fb50b7c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | La Canada Flintridge, CA | On Site | Oct 13 |
-| **[Newsmax Media, Inc.](http://www.newsmax.com/)** | **[Production Assistant](https://jobright.ai/jobs/info/683bef89ba832780a8fd56d5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
