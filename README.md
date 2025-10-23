@@ -138,6 +138,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66df2f37a4e6a062e29aa20c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sterling, IL | On Site | Oct 16 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/67876c77f680067e82cf7320?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Spring, TX | On Site | Oct 16 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662b012122c728ca05475268?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rensselaer, NY | On Site | Oct 16 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6710a3ccdb980f1b4cbd54c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Easley, SC | On Site | Oct 16 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/674d64f27ad8bdc326b8f4a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Caldwell, ID | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
