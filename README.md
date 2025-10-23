@@ -156,9 +156,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/66b648aa738b1cded17666bf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Carmel, IN | On Site | Oct 16 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66940c68cb326b57f9cecd14?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Wayne, IN | On Site | Oct 16 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6669941031eb72a9838dcdb2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Denton, TX | On Site | Oct 16 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/675d48bbbe71cdac6afdc7cb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sugar Land, TX | On Site | Oct 16 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664f427cad2d60bfd3232775?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Clemente, CA | On Site | Oct 16 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6676e01dc909276a3772d56c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO | On Site | Oct 16 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664dff9dd79e0cf765500b6c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nampa, ID | On Site | Oct 16 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/661efe087bdb33be00480990?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, NE | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
