@@ -67,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/66dc39a960553cdf73810e6d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dover, NH | On Site | Oct 19 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Flex Associate Producer - SPV - Bellevue](https://jobright.ai/jobs/info/689f51d383d13d1f5b6c5aca?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bellevue, WA | On Site | Oct 19 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[News Producer](https://jobright.ai/jobs/info/68c64844db52c07d2884663a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Redding, CA | On Site | Oct 19 |
-| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/689e19be79a9f96662546f18?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Manorville, NY | On Site | Oct 18 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6676cebc131cc9dd67df2540?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Humble, TX | On Site | Oct 18 |
 | ↳ | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/68d6857445853d0e39cc820e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Raleigh, NC | On Site | Oct 18 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/65e862d112d3f4ad072aa116?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lakewood, CO | On Site | Oct 18 |
@@ -91,6 +90,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676bbf09b9f24e2dbdca6f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Castle Rock, CO | On Site | Oct 17 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc455?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albuquerque, NM | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66b4f673f01a82bf616021da?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake Charles, LA | On Site | Oct 17 |
+| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/66db8cca2783adc706000dc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cypress, TX | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676b3aca2f49d4e236dc8cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nixa, MO | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6691027eba72e68785336001?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | South Charleston, WV | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662af311e0f2d0369fb50b78?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Junction, CO | On Site | Oct 17 |
@@ -111,19 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Troon](http://www.troon.com/)** | **[Grounds Crew](https://jobright.ai/jobs/info/68831cdf6fcd973d15adf614?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Valley Center, CA | On Site | Oct 17 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6786bb2767a7a976f6f1afab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake Dallas, TX | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677c2592b6ed5133f443e45?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Oct 17 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/66df825c988d0f46b830536b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Aubrey, TX | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676b393a2f49d4e236dc73e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Aurora, CO | On Site | Oct 17 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f355574b9d07f40fc4707?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lenexa, KS | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc3f5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676c1cac9dc0237d722ad75?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Weatherford, TX | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65e871733da54ecf49161bac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rincon, GA | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676cebc131cc9dd67df25e5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 17 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/662af318e0f2d0369fb50bb6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Frisco, TX | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6752fe2edf01aa6d906b6b13?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake Havasu City, AZ | On Site | Oct 17 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6677c1bd2b6ed5133f4432cd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ogden, UT | On Site | Oct 17 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/67537993b637c6eabd3043f1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Winter Garden, FL | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677ecf82ffca2bcf6691a3c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vineyard, UT | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/669303b67c8ef1994e434619?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | Oct 17 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/677b30497030885aa53e89d4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Troy, MO | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6752a8c5491dd401a8819f23?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plano, TX | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
