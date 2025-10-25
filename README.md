@@ -315,5 +315,4 @@ For a complete list, click the following sortable link below:
 | **[Naughty Dog](http://www.naughtydog.com)** | **[Gameplay Capture Artist (Contingent)](https://jobright.ai/jobs/info/689545768c6d6b442677880d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA | On Site | Oct 12 |
 | **[Troon](http://www.troon.com/)** | **[Golf Course Maintenance](https://jobright.ai/jobs/info/68985aa55574fd6bc0c78c9a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fairview, TX | On Site | Oct 12 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[A&R Scout - RCA](https://jobright.ai/jobs/info/68cee968846f0b04af67dc45?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Culver City, CA | On Site | Oct 11 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Sustainable Fashion Initiative in Greece](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8136?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
