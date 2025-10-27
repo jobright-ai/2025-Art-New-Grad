@@ -113,12 +113,12 @@ For a complete list, click the following sortable link below:
 | **[American Physical Society](http://www.aps.org/)** | **[Associate Editor, PRD](https://jobright.ai/jobs/info/68bb761b8043103d4f228d03?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Oct 17 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/66e6dd104d92e042a0b43e50?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Deer Park, TX | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677c1bd2b6ed5133f4432c3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Grand Island, NE | On Site | Oct 17 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/66d9aab5490b0f000561800e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Katy, TX | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677c1bd2b6ed5133f4432dc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Aurora, CO | On Site | Oct 17 |
 | ↳ | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/682b25a5e18d593986e6150f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New Bern, NC | On Site | Oct 17 |
 | ↳ | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/682b25a5e18d593986e614b4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rochester, MN | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6774f323468e0db160beb220?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | South Jordan, UT | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66b69bea0544ef018661b280?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baton Rouge, LA | On Site | Oct 17 |
+| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/65e871733da54ecf49161b43?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Katy, TX | On Site | Oct 17 |
 | **[Troon](http://www.troon.com/)** | **[Grounds Crew](https://jobright.ai/jobs/info/68831cdf6fcd973d15adf614?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Valley Center, CA | On Site | Oct 17 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6786bb2767a7a976f6f1afab?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake Dallas, TX | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677c2592b6ed5133f443e45?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Oct 17 |
@@ -285,9 +285,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66780a5b136e53ea12e6233a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vienna, WV | On Site | Oct 13 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65f8bba14384d5334802425c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Peoria, AZ | On Site | Oct 13 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662af2d8e0f2d0369fb5054c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amarillo, TX | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/67861797f89e8aba81554e94?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676c61f807f31af72076bdd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676ced4131cc9dd67df26ee?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Triadelphia, WV | On Site | Oct 13 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6676d8264ffdc62f7b67944d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fishers, IN | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662ae427181892cf3f90a55b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burleson, TX | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
