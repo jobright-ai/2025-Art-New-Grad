@@ -69,8 +69,7 @@ For a complete list, click the following sortable link below:
 | **[University of Illinois Springfield](http://www.uis.edu/)** | **[Extra Help Stagehand - 50 vacancies](https://jobright.ai/jobs/info/68749484ae2f413e4a59d9f4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, IL | On Site | Oct 22 |
 | **[The RealReal](http://www.therealreal.com)** | **[Luxury Fashion Specialist (Authenticator)](https://jobright.ai/jobs/info/68c122ed233c7d3e64d00290?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Phoenix, AZ | On Site | Oct 22 |
 | **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/6660b55ede5012e08980e84d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sonora, CA | On Site | Oct 22 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Producer](https://jobright.ai/jobs/info/68bf34fc5c5d5f14f46d4d67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Springfield, MO | On Site | Oct 22 |
-| ↳ | **[MultiMedia Journalist](https://jobright.ai/jobs/info/68bf85b38e65e77df55bb195?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colchester, VT | Hybrid | Oct 22 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[MultiMedia Journalist](https://jobright.ai/jobs/info/68bf85b38e65e77df55bb195?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colchester, VT | Hybrid | Oct 22 |
 | **[National Lutheran Communities & Services](http://www.nationallutheran.org)** | **[Connected Living (Activities) Coordinator](https://jobright.ai/jobs/info/68d5ebaa2116ff37ee0913ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | Oct 22 |
 | **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/6813c351762cbf27701b40d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, WA | On Site | Oct 21 |
 | **[Nature Portfolio](https://www.nature.com/nature-portfolio)** | **[Associate or Senior Editor, Nature Sensors](https://jobright.ai/jobs/info/68db9adf9f13662d20e4f356?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Oct 21 |
@@ -190,9 +189,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6619327d73852fa34358a9f8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tyler, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664de0270790ade97e15e1b3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Worth, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6676b393a2f49d4e236dc6c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Katy, TX | On Site | Oct 15 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677bdf427c0e726e8f4f542?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, NE | On Site | Oct 15 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/677a38c3a2419558ae2c1fc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pittsburgh, PA | On Site | Oct 15 |
 | **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/68d34d328c62e63bc7fdf88f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Okatie, SC | On Site | Oct 15 |
+| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6676d8264ffdc62f7b67938a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Omaha, NE | On Site | Oct 15 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[On Air Personality](https://jobright.ai/jobs/info/68d02146846f0b04af687c95?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 15 |
 | **[Batesville](https://www.batesville.com)** | **[Production Associate - 1st Shift](https://jobright.ai/jobs/info/68d2b13cf0d9af73038da192?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Batesville, IN | On Site | Oct 15 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/66934f9f5d386ebc07d0fef8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blackwood, NJ | On Site | Oct 15 |
@@ -201,13 +200,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f427cad2d60bfd3232767?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Prosper, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664def5acf7bdc8f73b3bfbe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Worth, TX | On Site | Oct 15 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Production Stagehand](https://jobright.ai/jobs/info/68d4fa67e678d65ec7d8a364?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakland, CA | On Site | Oct 15 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6677bc9f27c0e726e8f4dbb7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 15 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Fulfillment Associate - Temporary - $17.00/Hour](https://jobright.ai/jobs/info/68d77c5c7a37c712687cf187?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Joseph, MO | On Site | Oct 15 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/664f4284ad2d60bfd323280a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glassboro, NJ | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662ae427181892cf3f90a4c0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lewisville, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66760de4ad2dd17614c4883e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheyenne, WY | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6751c11f8684b1a645ef9712?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brunswick, GA | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664f355d74b9d07f40fc47c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brookfield, WI | On Site | Oct 15 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc401?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677b7739c2d9fa5bf087bbf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Encinitas, CA | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/672b4a63abe149880bd2d728?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sulphur, LA | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664def5acf7bdc8f73b3bfe5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baytown, TX | On Site | Oct 15 |
@@ -273,6 +272,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/667306c419c37cefe78a19c2?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bangor, ME | On Site | Oct 14 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676c637807f31af72076dfa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Hayden, ID | On Site | Oct 14 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/664f4284ad2d60bfd32327c7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Janesville, WI | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677d16e97271e26801e1c85?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Irvine, CA | On Site | Oct 13 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66b417490e520d1b233f8bc8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | West Chester, PA | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
