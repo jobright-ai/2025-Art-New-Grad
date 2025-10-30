@@ -149,5 +149,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677c77664f2e472ffd6318d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marietta, GA | On Site | Oct 16 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664f354d74b9d07f40fc45b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Simi Valley, CA | On Site | Oct 16 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66b5fafbc0a8ad00c447d6eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burleson, TX | On Site | Oct 16 |
-| ↳ | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/682b25a5e18d593986e614b9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burnsville, MN | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
