@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[MultiMedia Journalist](https://jobright.ai/jobs/info/68bf85b38e65e77df55bb195?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Colchester, VT | Hybrid | Oct 22 |
 | **[National Lutheran Communities & Services](http://www.nationallutheran.org)** | **[Connected Living (Activities) Coordinator](https://jobright.ai/jobs/info/68d5ebaa2116ff37ee0913ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | Oct 22 |
 | **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/6813c351762cbf27701b40d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, WA | On Site | Oct 21 |
-| **[Nature Portfolio](https://www.nature.com/nature-portfolio)** | **[Associate or Senior Editor, Nature Sensors](https://jobright.ai/jobs/info/68db9adf9f13662d20e4f356?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | Hybrid | Oct 21 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Massage Therapist](https://jobright.ai/jobs/info/68db3bcf9f13662d20e48c85?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kapolei, HI | Hybrid | Oct 21 |
 | **[Varsity Spirit](http://www.varsity.com)** | **[Pro Cheer League Athlete](https://jobright.ai/jobs/info/68daf68d07c157682e570186?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Texas, United States | Remote | Oct 21 |
 | **[Torrid](http://www.torrid.com/)** | **[Freelance Fitting Model (Bras)](https://jobright.ai/jobs/info/67a0803d2e58f08408f280f0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | City of Industry, CA | On Site | Oct 20 |
@@ -103,5 +102,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc455?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albuquerque, NM | On Site | Oct 17 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66b4f673f01a82bf616021da?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake Charles, LA | On Site | Oct 17 |
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/66db8cca2783adc706000dc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cypress, TX | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65e724e7ee1da40791438846?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Charleston, SC | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
