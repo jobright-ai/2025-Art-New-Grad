@@ -96,10 +96,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Licensed Assistant Salon Manager](https://jobright.ai/jobs/info/680f6c9e2a965e543e69a12d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Olathe, KS | On Site | Oct 18 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Reporter, Breaking News](https://jobright.ai/jobs/info/68d7a64e7796a83635f09907?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Oct 18 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f4284ad2d60bfd32327cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nampa, ID | On Site | Oct 18 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc45d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Clarksville, IN | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676c27fc9dc0237d722ba52?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6676bbf09b9f24e2dbdca6f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Castle Rock, CO | On Site | Oct 17 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc455?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Albuquerque, NM | On Site | Oct 17 |
-| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66b4f673f01a82bf616021da?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lake Charles, LA | On Site | Oct 17 |
-| ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/66db8cca2783adc706000dc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cypress, TX | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
