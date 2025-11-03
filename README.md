@@ -61,7 +61,8 @@ For a complete list, click the following sortable link below:
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f427cad2d60bfd3232718?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Katy, TX | On Site | Nov 02 |
 | **[Colorado Judicial Branch](coloradojudicial.gov)** | **[Court Reporter II](https://jobright.ai/jobs/info/68d4d7538c62e63bc7fed0cf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greeley, CO | On Site | Nov 01 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Bilingual Multimedia Journalist](https://jobright.ai/jobs/info/68cedd5efb49c96ca6ea3f9a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bakersfield, CA | Hybrid | Oct 31 |
-| **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/68cd8e48b2a74e1837ed8c4e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bradenton, FL | On Site | Oct 29 |
+| **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/68acbca5758f2e4ac30083eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indian Wells, CA | On Site | Oct 29 |
+| ↳ | **[Assistant Golf Professional](https://jobright.ai/jobs/info/68cd8e48b2a74e1837ed8c4e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bradenton, FL | On Site | Oct 29 |
 | **[New York State Unified Court System](https://www.nycourts.gov)** | **[Court Reporter - Trainee](https://jobright.ai/jobs/info/67eef3b02998919d2fdafbf3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | On Site | Oct 27 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Music Central Assistant - Nashville](https://jobright.ai/jobs/info/685365622894593b762e8363?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Oct 27 |
 | **[Warner Music Group](http://www.wmg.com)** | **[A&R Assistant (Pop/Rock)](https://jobright.ai/jobs/info/68d4f24ce678d65ec7d89ab8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 25 |
@@ -201,13 +202,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f427cad2d60bfd3232767?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Prosper, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664def5acf7bdc8f73b3bfbe?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Worth, TX | On Site | Oct 15 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Production Stagehand](https://jobright.ai/jobs/info/68d4fa67e678d65ec7d8a364?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oakland, CA | On Site | Oct 15 |
-| **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/6677bc9f27c0e726e8f4dbb7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 15 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Fulfillment Associate - Temporary - $17.00/Hour](https://jobright.ai/jobs/info/68d77c5c7a37c712687cf187?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | St Joseph, MO | On Site | Oct 15 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist](https://jobright.ai/jobs/info/664f4284ad2d60bfd323280a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glassboro, NJ | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/662ae427181892cf3f90a4c0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lewisville, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/66760de4ad2dd17614c4883e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cheyenne, WY | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6751c11f8684b1a645ef9712?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brunswick, GA | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664f355d74b9d07f40fc47c9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brookfield, WI | On Site | Oct 15 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65e86d33edfa37cc1cffc401?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6677b7739c2d9fa5bf087bbf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Encinitas, CA | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/672b4a63abe149880bd2d728?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sulphur, LA | On Site | Oct 15 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/664def5acf7bdc8f73b3bfe5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baytown, TX | On Site | Oct 15 |
@@ -319,7 +320,6 @@ For a complete list, click the following sortable link below:
 | **[CELINE](https://www.celine.com)** | **[VIP ASSISTANT](https://jobright.ai/jobs/info/68b3a453bc187f64e1be06a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | On Site | Oct 10 |
 | **[ION](https://iongroup.com)** | **[Reporter - Mergermarket](https://jobright.ai/jobs/info/68ccf5aa5954791a1d701b3d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Oct 09 |
 | **[Home Chef](https://www.homechef.com)** | **[Content Creator](https://jobright.ai/jobs/info/68c8c1e1983e6768bc551462?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Oct 07 |
-| **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/68acbca5758f2e4ac30083eb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Indian Wells, CA | On Site | Oct 07 |
 | **[Aritzia](https://www.aritzia.com/)** | **[Style Advisor](https://jobright.ai/jobs/info/68a3afa7403ad4363b1c2ef0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lone Tree, CO | On Site | Oct 06 |
 | **[ASCAP](http://www.ascap.com/)** | **[Membership Coordinator, Creative Membership](https://jobright.ai/jobs/info/68cd5c68b2a74e1837ed5fc1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
