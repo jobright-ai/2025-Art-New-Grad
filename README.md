@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/6676cf78131cc9dd67df3273?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Glendora, CA | On Site | Nov 03 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/6662ff0e0239284ea14f43c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elizabethtown, KY | On Site | Nov 03 |
 | ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/660cdf9d65c5d1e21dc3a477?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saratoga Springs, NY | On Site | Nov 03 |
+| ↳ | **[Hair Stylist](https://jobright.ai/jobs/info/65f8d7c1a485532f6f631305?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Louisville, KY | On Site | Nov 03 |
 | **[Sinclair Inc.](http://sbgi.net/)** | **[Multimedia Journalist (MMJ)](https://jobright.ai/jobs/info/6893c6a0a9199876488e01e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Amarillo, TX | On Site | Nov 02 |
 | **[Naughty Dog](http://www.naughtydog.com)** | **[Gameplay Capture Artist (Contingent)](https://jobright.ai/jobs/info/689545768c6d6b442677880d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Santa Monica, CA | On Site | Nov 02 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Hair Stylist/Barber](https://jobright.ai/jobs/info/664f427cad2d60bfd3232718?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Katy, TX | On Site | Nov 02 |
@@ -92,5 +93,4 @@ For a complete list, click the following sortable link below:
 | **[National Lutheran Communities & Services](http://www.nationallutheran.org)** | **[Connected Living (Activities) Coordinator](https://jobright.ai/jobs/info/68d5ebaa2116ff37ee0913ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockville, MD | On Site | Oct 22 |
 | **[Troon](http://www.troon.com/)** | **[Assistant Golf Professional](https://jobright.ai/jobs/info/6813c351762cbf27701b40d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Seattle, WA | On Site | Oct 21 |
 | **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Massage Therapist](https://jobright.ai/jobs/info/68db3bcf9f13662d20e48c85?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kapolei, HI | Hybrid | Oct 21 |
-| **[Varsity Spirit](http://www.varsity.com)** | **[Pro Cheer League Athlete](https://jobright.ai/jobs/info/68daf68d07c157682e570186?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Texas, United States | Remote | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
