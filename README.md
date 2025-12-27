@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/694fea0829655e4dd6594ec5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | DeSoto, TX | On Site | Dec 27 |
+| **[CBS News and Stations](http://www.cbs.com)** | **[Freelance Production Assistant](https://jobright.ai/jobs/info/694fde1fa2668b7f5452f9b1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Francisco, CA | On Site | Dec 27 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Mat Roller](https://jobright.ai/jobs/info/69338aacf131d96e48464417?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Rockford, IL | On Site | Dec 27 |
+| **[NORY, Inc.](http://www.nory.co)** | **[Studio Assistant (Manhattan, NYC)](https://jobright.ai/jobs/info/692b149ffa28370be2698380?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | On Site | Dec 27 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - $17.00+/Hour](https://jobright.ai/jobs/info/6933917da0dde7020e2ef39e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bessemer, AL | On Site | Dec 27 |
+| ↳ | **[Production Associate - Garment Fulfillment Associate](https://jobright.ai/jobs/info/694fccd2ce13cd105657da41?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Justice, IL | On Site | Dec 27 |
 | **[Topstep](https://www.topstep.com)** | **[Production Assistant, TopstepTV](https://jobright.ai/jobs/info/69338a08764507023d1b69ff?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | Hybrid | Dec 27 |
 | **[Fox Business Network](http://www.foxbusiness.com)** | **[Associate Producer, The Big Money Show](https://jobright.ai/jobs/info/68fa865cedd190144238db17?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Dec 27 |
 | **[Macy's](http://www.macysjobs.com)** | **[Backstage Captain, Boca Raton Town Center - Full Time](https://jobright.ai/jobs/info/694fbf1fce13cd105657d91f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 5700 West Glades Road, Boca Raton, FL, 33431, US | On Site | Dec 27 |
@@ -64,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Facilities and Site Maintenance Specialist Event Staff - Forest Hills Stadium](https://jobright.ai/jobs/info/68358cf3635fe01a280f312e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Dec 27 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68bb4f8f8043103d4f227b9f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Dallas, TX | On Site | Dec 27 |
 | **[Carvana](http://www.carvana.com)** | **[Entry Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691ce4aa22a2cb4b9bd1e552?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delanco, NJ | On Site | Dec 26 |
+| **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Beverage Steward](https://jobright.ai/jobs/info/694fccaf29655e4dd6592979?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 14845 VENTURA BLVD, SHERMAN OAKS, CA, 91403, US | On Site | Dec 26 |
 | **[Entravision](https://entravision.com/)** | **[Bilingual News Digital Content Producer](https://jobright.ai/jobs/info/693c822caa598a08c3ed5993?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Dec 26 |
 | ↳ | **[Bilingual News Digital Content Producer](https://jobright.ai/jobs/info/694f3743ce13cd1056576a10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Dec 26 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69179c8cbcdbf3560c9c95cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Dec 26 |
@@ -82,6 +89,7 @@ Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68f6a6899a65fd3458595c0d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tolleson, AZ | On Site | Dec 26 |
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691ceca522a2cb4b9bd1ece6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Trenton, OH | On Site | Dec 26 |
 | **[Sport Clips Haircuts](http://www.sportclips.com)** | **[Cosmetologist](https://jobright.ai/jobs/info/67339255c4d6697229bca9af?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fayetteville, NC | On Site | Dec 26 |
+| ↳ | **[Hairstylist](https://jobright.ai/jobs/info/6776c2c593f77e8ade1fa23c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Morrisville, NC | On Site | Dec 26 |
 | ↳ | **[Hairstylist](https://jobright.ai/jobs/info/6776c2c593f77e8ade1fa22f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Jacksonville, NC | On Site | Dec 26 |
 | ↳ | **[Cosmetologist](https://jobright.ai/jobs/info/67ee1e1b100c1edf3ffa717c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Garner, NC | On Site | Dec 26 |
 | ↳ | **[Hairstylist](https://jobright.ai/jobs/info/6776b75a12b4011255281282?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fayetteville, NC | On Site | Dec 26 |
@@ -216,6 +224,4 @@ Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_
 | **[Enmarket Arena](https://enmarketarena.com)** | **[Event Coordinator / Full-Time / Donald L. Tucker Civic Center](https://jobright.ai/jobs/info/694748dfd1953b5d11c069df?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-FL-Tallahassee | On Site | Dec 20 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Event Coordinator / Full-Time / Donald L. Tucker Civic Center](https://jobright.ai/jobs/info/6947613c7d506e3808f2abb0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | US-FL-Tallahassee | On Site | Dec 20 |
 | ↳ | **[Event Coordinator / Full-Time / Donald L. Tucker Civic Center](https://jobright.ai/jobs/info/6947625263141d1884570ce7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Donald L Tucker Civic Center (Florida State U) | On Site | Dec 20 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691cc74522a2cb4b9bd1d20d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Dec 20 |
-| **[RWJBarnabas Health](https://www.rwjbarnabashealthcareers.org/)** | **[Creative Arts Therapist, Adult Psych (AP)](https://jobright.ai/jobs/info/68f06d3e1f624a7ec1cf28a9?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Elizabeth, NJ | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
