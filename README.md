@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Entravision](https://entravision.com/)** | **[Bilingual News Digital Content Producer](https://jobright.ai/jobs/info/693c822caa598a08c3ed5993?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Dec 26 |
+| ↳ | **[Bilingual News Digital Content Producer](https://jobright.ai/jobs/info/694f3743ce13cd1056576a10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Dec 26 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69179c8cbcdbf3560c9c95cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Dec 26 |
 | **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/694ac1773019f50a4fe5cfa3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kannapolis, NC | On Site | Dec 26 |
 | **[USA TODAY Co., Inc.](https://www.usatodayco.com/)** | **[Reporter: Government, public safety](https://jobright.ai/jobs/info/694efefcce13cd1056574306?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Massachusetts, United States | Hybrid | Dec 26 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/68e3fa0ab99ec3563b0e451f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Dec 26 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/6913bb02e344172248f7397f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Dec 25 |
 | **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Press Assistant I](https://jobright.ai/jobs/info/693137d8fa28370be26b7909?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Dec 25 |
 | **[TEGNA](http://www.tegna.com)** | **[Prep Sports Journalist/Anchor](https://jobright.ai/jobs/info/691e09d5a49a885af9a23f73?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KUSA KTVD-TV Denver | On Site | Dec 25 |
-| **[Level Agency](https://level.agency)** | **[Video Editor](https://jobright.ai/jobs/info/694ef292ce13cd1056572886?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Dec 24 |
-| ↳ | **[Video Editor](https://jobright.ai/jobs/info/694ef28e29655e4dd658767d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | Dec 24 |
+| **[Level Agency](https://level.agency)** | **[Video Editor](https://jobright.ai/jobs/info/694ef28e29655e4dd658767d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | Dec 24 |
+| ↳ | **[Video Editor](https://jobright.ai/jobs/info/694ef292ce13cd1056572886?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Dec 24 |
 | **[Knott's Berry Farm](http://www.knotts.com)** | **[Park Decor Tech](https://jobright.ai/jobs/info/693965a6ac80bb5492bbf3e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buena Park, CA | On Site | Dec 24 |
 | **[Topstep](https://www.topstep.com)** | **[Production Assistant,  TopstepTV](https://jobright.ai/jobs/info/693357c2764507023d1b4808?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL. | Hybrid | Dec 24 |
 | **[Gersh](https://gersh.com)** | **[Mailroom Floater](https://jobright.ai/jobs/info/694c75785d7312113470db48?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NYC Metro Area | On Site | Dec 24 |
@@ -209,6 +212,4 @@ For a complete list, click the following sortable link below:
 | **[Company 3](http://www.company3.com)** | **[FX Artist (General Submission)](https://jobright.ai/jobs/info/692a13eb4c474121999cb63e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 20 |
 | **[SiriusXM](http://siriusxm.com)** | **[Coordinator, Music Programming, Part- time](https://jobright.ai/jobs/info/690d73434a1b456627b2176d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Dec 20 |
 | **[Walt Disney Animation Studios](https://www.disneyanimation.com/)** | **[Animator](https://jobright.ai/jobs/info/694692ddd1953b5d11bfb624?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Dec 20 |
-| **[MCC Label](https://www.mcclabel.com/)** | **[Press Assistant](https://jobright.ai/jobs/info/691b30a215b415636718d4e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chesapeake, VA | On Site | Dec 20 |
-| **[Sinclair Inc.](http://sbgi.net/)** | **[Creative Services Producer](https://jobright.ai/jobs/info/6910452e988c2b7b4ec50c3d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yakima, WA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
