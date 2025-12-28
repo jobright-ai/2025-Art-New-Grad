@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[Birthday Party & Events Coordinator](https://jobright.ai/jobs/info/69506ee029655e4dd6599d5a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brea-2315 E Imperial Hwy Ste D | On Site | Dec 27 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69178532bcdbf3560c9c87fd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Dec 27 |
+| **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69505dafa2668b7f54534e9d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pyote, TX | On Site | Dec 27 |
 | **[Enveda](https://enveda.com)** | **[Animator](https://jobright.ai/jobs/info/695045de29655e4dd6597dc7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boulder County, CO | Remote | Dec 27 |
 | **[Michaels Stores](https://teachitpro.com)** | **[PT Nights & Weekends Framer](https://jobright.ai/jobs/info/695034cfa2668b7f54532e88?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati-700 Eastgate S Dr Ste 100A | On Site | Dec 27 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer/ Lot Attendant](https://jobright.ai/jobs/info/68e3f8bcb99ec3563b0e437a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oklahoma City, OKC | On Site | Dec 27 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Beverage Steward](https://jobright.ai/jobs/info/694fccaf29655e4dd6592979?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 14845 VENTURA BLVD, SHERMAN OAKS, CA, 91403, US | On Site | Dec 26 |
 | **[Entravision](https://entravision.com/)** | **[Bilingual News Digital Content Producer](https://jobright.ai/jobs/info/693c822caa598a08c3ed5993?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Las Vegas, NV | On Site | Dec 26 |
 | ↳ | **[Bilingual News Digital Content Producer](https://jobright.ai/jobs/info/694f3743ce13cd1056576a10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Dec 26 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69179c8cbcdbf3560c9c95cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Dec 26 |
 | **[City of Fishers](https://www.fishers.in.us/)** | **[Part-time Makerspace Staff (Skilled Craft: Wood Shop, Welding, 3D Printers, Laser Cutter, CNC)Title: Part-Time Makerspace Staff (Skilled Craft: Wood Shop, Welding, 3D Printers, Laser Cutter, CNC)
 Status: Part-Time
 Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fishers, IN | On Site | Dec 26 |
@@ -206,7 +208,6 @@ Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Showcase Presenter](https://jobright.ai/jobs/info/689224d3f47efe211395a101?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lahaina, HI | On Site | Dec 22 |
 | **[Promote Live, Inc.](http://www.PromoteLive.com)** | **[Engager/Model types for PGA Show in Orlando](https://jobright.ai/jobs/info/6948cb6f63141d188458673e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, MN | On Site | Dec 21 |
 | **[Esquire Deposition Solutions, LLC](https://www.esquiresolutions.com/)** | **[Coordinator, Video - Complex Fulfillment](https://jobright.ai/jobs/info/6948ae8063141d1884584fe1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta  Corporate - Atlanta, GA 30344 | Hybrid | Dec 21 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69178532bcdbf3560c9c87fd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Dec 21 |
 | **[Kobelco Aluminum Products & Extrusions Inc.](https://www.linkedin.com/company/84317783)** | **[Casting Production Team - 3rd Shift](https://jobright.ai/jobs/info/694a036ec6f0e2546ceee871?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bowling Green, KY | On Site | Dec 21 |
 | **[Naperville Park District](https://www.napervilleparks.org)** | **[Golf Maintenance II](https://jobright.ai/jobs/info/6948a2f37d506e3808f3dacb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Naperville, IL | Hybrid | Dec 21 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68f8006aec6dbe7073fd01c5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Dec 21 |
@@ -217,6 +218,4 @@ Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_
 | **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Scenic Builder Overhire](https://jobright.ai/jobs/info/6882d1ceb54cac0f1e732e57?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Richmond, CA | On Site | Dec 21 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - Swing Shift](https://jobright.ai/jobs/info/690eae8fd046ab6061d00157?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Maple Grove, MN | On Site | Dec 21 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[Editor](https://jobright.ai/jobs/info/68f2f5729a63986de756d72f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Milwaukee, WI | On Site | Dec 21 |
-| **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/6944981f94730b739877ccef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brevard, NC | On Site | Dec 20 |
-| **[Cambridge Public Schools](http://www.cpsd.us)** | **[CRLS Club Advisor: Visual Arts](https://jobright.ai/jobs/info/6947a3a9d1953b5d11c0c30d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cambridge, MA | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
