@@ -57,12 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - Cleanroom - 2nd Shift](https://jobright.ai/jobs/info/691ae694bcdbf3560c9db62c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | Dec 28 |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/695137c729655e4dd65a4ea5?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bourbonnais, IL | On Site | Dec 28 |
+| ↳ | **[Fashion Team Associate](https://jobright.ai/jobs/info/695133b8ce13cd105658ff3a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Austin, TX | On Site | Dec 28 |
+| **[CNN](https://www.cnn.com)** | **[Associate Producer, CNN Global Productions](https://jobright.ai/jobs/info/68fae6418d32c164778cc5a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | On Site | Dec 28 |
+| ↳ | **[Associate Producer, CNN Global Productions](https://jobright.ai/jobs/info/68faeece3c99cc1d960279aa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Dec 28 |
+| **[Orvanta](orvanta.us)** | **[Pop Culture Video Expert – Business & Culture Researcher](https://jobright.ai/jobs/info/69512826a2668b7f5454009a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL | Remote | Dec 28 |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector](https://jobright.ai/jobs/info/68df27395ab4977c2e951016?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Puyallup, WA | On Site | Dec 28 |
+| ↳ | **[Production Associate - Utility IV - Cleanroom - 2nd Shift](https://jobright.ai/jobs/info/691ae694bcdbf3560c9db62c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | Dec 28 |
 | ↳ | **[Production Associate - Garment/Linen/Bulk Product Folder - Cleanroom](https://jobright.ai/jobs/info/691a9017bcdbf3560c9d895d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Marcy, NY | On Site | Dec 28 |
 | ↳ | **[Production Associate - Mender - 2nd Shift](https://jobright.ai/jobs/info/691a888a45fb6f5ead8abaef?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Ontario, CA | On Site | Dec 28 |
 | **[Rice University](http://www.rice.edu)** | **[Post-MFA Fellow](https://jobright.ai/jobs/info/693381bd764507023d1b64a1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | Hybrid | Dec 28 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Footwear Production Coordinator](https://jobright.ai/jobs/info/6944a20094730b739877d150?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Dec 28 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6908c0e44a1b456627af8d10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Dec 28 |
+| ↳ | **[Apparel Production Coordinator](https://jobright.ai/jobs/info/690aa32dd046ab6061cdebe3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Dec 28 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/690dbc50221b890c278092f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Dec 27 |
 | **[National Security Agency](http://www.nsa.gov/)** | **[Multimedia Producer - Video - Entry to Mid Level (Maryland)](https://jobright.ai/jobs/info/6950cbefce13cd105658b0a4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Meade, MD | On Site | Dec 27 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/68e97462f195760c354a9511?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tooele, UT | On Site | Dec 27 |
 | **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Content Specialist](https://jobright.ai/jobs/info/6950e546a2668b7f5453c15a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, OH | Hybrid | Dec 27 |
