@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cintas](https://www.cintas.com)** | **[Production Associate - Utility IV - 2nd Shift](https://jobright.ai/jobs/info/6951895429655e4dd65a7485?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Dec 28 |
+| ↳ | **[Production Associate - Garment Sorter - 3rd Shift](https://jobright.ai/jobs/info/69518901a2668b7f54543037?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Newburgh, NY | On Site | Dec 28 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691cab12bcdbf3560c9e8a17?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Dec 28 |
+| **[Fever](https://www.feverup.com)** | **[Videographer/Producer](https://jobright.ai/jobs/info/6929d3a7fa28370be2695505?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles | Hybrid | Dec 28 |
 | **[CNN](https://www.cnn.com)** | **[Associate Producer, CNN Global Productions](https://jobright.ai/jobs/info/68fae6418d32c164778cc5a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | On Site | Dec 28 |
 | ↳ | **[Associate Producer, CNN Global Productions](https://jobright.ai/jobs/info/68faeece3c99cc1d960279aa?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Dec 28 |
 | **[Orvanta](orvanta.us)** | **[Pop Culture Video Expert – Business & Culture Researcher](https://jobright.ai/jobs/info/69512826a2668b7f5454009a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami, FL | Remote | Dec 28 |
@@ -73,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Content Specialist](https://jobright.ai/jobs/info/6950e546a2668b7f5453c15a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, OH | Hybrid | Dec 27 |
 | **[Topstep](https://www.topstep.com)** | **[Production Assistant,  TopstepTV](https://jobright.ai/jobs/info/693357c2764507023d1b4808?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL. | Hybrid | Dec 27 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Birthday Party & Events Coordinator](https://jobright.ai/jobs/info/69506ee029655e4dd6599d5a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Brea-2315 E Imperial Hwy Ste D | On Site | Dec 27 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69178532bcdbf3560c9c87fd?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Dec 27 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69505dafa2668b7f54534e9d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Pyote, TX | On Site | Dec 27 |
 | **[Enveda](https://enveda.com)** | **[Animator](https://jobright.ai/jobs/info/695045de29655e4dd6597dc7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Boulder County, CO | Remote | Dec 27 |
 | **[Michaels Stores](https://teachitpro.com)** | **[PT Nights & Weekends Framer](https://jobright.ai/jobs/info/695034cfa2668b7f54532e88?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cincinnati-700 Eastgate S Dr Ste 100A | On Site | Dec 27 |
@@ -97,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Carvana](http://www.carvana.com)** | **[Entry Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691ce4aa22a2cb4b9bd1e552?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Delanco, NJ | On Site | Dec 26 |
 | **[Albertsons Companies](https://www.albertsonscompanies.com/)** | **[Beverage Steward](https://jobright.ai/jobs/info/694fccaf29655e4dd6592979?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | 14845 VENTURA BLVD, SHERMAN OAKS, CA, 91403, US | On Site | Dec 26 |
 | **[Entravision](https://entravision.com/)** | **[Bilingual News Digital Content Producer](https://jobright.ai/jobs/info/694f3743ce13cd1056576a10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Diego, CA | On Site | Dec 26 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69179c8cbcdbf3560c9c95cc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Kansas City, MO | On Site | Dec 26 |
 | **[City of Fishers](https://www.fishers.in.us/)** | **[Part-time Makerspace Staff (Skilled Craft: Wood Shop, Welding, 3D Printers, Laser Cutter, CNC)Title: Part-Time Makerspace Staff (Skilled Craft: Wood Shop, Welding, 3D Printers, Laser Cutter, CNC)
 Status: Part-Time
 Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fishers, IN | On Site | Dec 26 |
@@ -139,7 +143,7 @@ Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Route Preparation - 2nd Shift](https://jobright.ai/jobs/info/6913eda01465e02904e98a68?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Dec 25 |
 | ↳ | **[Production Associate - Garment Hanger/Inspector (4-Day Workweek) - Up To $21/Hour](https://jobright.ai/jobs/info/6930cfc84c474121999e932e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Dec 25 |
 | **[Centric Brands](https://centricbrands.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/6913bb02e344172248f7397f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Dec 25 |
-| **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Press Assistant I](https://jobright.ai/jobs/info/6930c5f6fa28370be26b391b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Dec 25 |
+| **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Press Assistant I](https://jobright.ai/jobs/info/693137d8fa28370be26b7909?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Dec 25 |
 | **[TEGNA](http://www.tegna.com)** | **[Prep Sports Journalist/Anchor](https://jobright.ai/jobs/info/691e09d5a49a885af9a23f73?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KUSA KTVD-TV Denver | On Site | Dec 25 |
 | **[Level Agency](https://level.agency)** | **[Video Editor](https://jobright.ai/jobs/info/694ef28e29655e4dd658767d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | Dec 24 |
 | ↳ | **[Video Editor](https://jobright.ai/jobs/info/694ef292ce13cd1056572886?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Dec 24 |
@@ -222,5 +226,4 @@ Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/68ceea62fb49c96ca6ea4531?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Corinth, NY | On Site | Dec 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Producer](https://jobright.ai/jobs/info/6933a546f131d96e48465553?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Dec 22 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Showcase Presenter](https://jobright.ai/jobs/info/689224d3f47efe211395a101?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lahaina, HI | On Site | Dec 22 |
-| **[Promote Live, Inc.](http://www.PromoteLive.com)** | **[Engager/Model types for PGA Show in Orlando](https://jobright.ai/jobs/info/6948cb6f63141d188458673e?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Minneapolis, MN | On Site | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
