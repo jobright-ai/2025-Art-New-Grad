@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691cadba22a2cb4b9bd1c2ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Dec 28 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Storytelling Production Coordinator](https://jobright.ai/jobs/info/693352eca0dde7020e2eca29?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Remote (Woodland Hills, CA) | Remote | Dec 28 |
 | **[CAMP](https://camp.com/)** | **[Character Performers/Mascots for Bluey x CAMP Production](https://jobright.ai/jobs/info/68e468e8f758fe1f97e67ff0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | On Site | Dec 28 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Part Time Framer - Service Team Member](https://jobright.ai/jobs/info/6951a5a5ce13cd10565944ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Petaluma-1359 N McDowell Blvd | On Site | Dec 28 |
@@ -75,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Rice University](http://www.rice.edu)** | **[Post-MFA Fellow](https://jobright.ai/jobs/info/693381bd764507023d1b64a1?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Houston, TX | Hybrid | Dec 28 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com)** | **[Footwear Production Coordinator](https://jobright.ai/jobs/info/6944a20094730b739877d150?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Dec 28 |
 | ↳ | **[Apparel Production Coordinator](https://jobright.ai/jobs/info/690aa32dd046ab6061cdebe3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Los Angeles, CA | On Site | Dec 28 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/6908c0e44a1b456627af8d10?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Dec 28 |
+| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/690dbc50221b890c278092f3?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tracy, CA | On Site | Dec 27 |
 | **[National Security Agency](http://www.nsa.gov/)** | **[Multimedia Producer - Video - Entry to Mid Level (Maryland)](https://jobright.ai/jobs/info/6950cbefce13cd105658b0a4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Fort Meade, MD | On Site | Dec 27 |
 | **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Content Specialist](https://jobright.ai/jobs/info/6950e546a2668b7f5453c15a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Columbus, OH | Hybrid | Dec 27 |
 | **[Topstep](https://www.topstep.com)** | **[Production Assistant,  TopstepTV](https://jobright.ai/jobs/info/693357c2764507023d1b4808?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL. | Hybrid | Dec 27 |
@@ -147,8 +148,8 @@ Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_
 | **[Centric Brands](https://centricbrands.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/6913bb02e344172248f7397f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Dec 25 |
 | **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Press Assistant I](https://jobright.ai/jobs/info/6930c5f6fa28370be26b391b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Dec 25 |
 | **[TEGNA](http://www.tegna.com)** | **[Prep Sports Journalist/Anchor](https://jobright.ai/jobs/info/691e09d5a49a885af9a23f73?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KUSA KTVD-TV Denver | On Site | Dec 25 |
-| **[Level Agency](https://level.agency)** | **[Video Editor](https://jobright.ai/jobs/info/694ef28e29655e4dd658767d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | Dec 24 |
-| ↳ | **[Video Editor](https://jobright.ai/jobs/info/694ef292ce13cd1056572886?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Dec 24 |
+| **[Level Agency](https://level.agency)** | **[Video Editor](https://jobright.ai/jobs/info/694ef292ce13cd1056572886?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Dec 24 |
+| ↳ | **[Video Editor](https://jobright.ai/jobs/info/694ef28e29655e4dd658767d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | Dec 24 |
 | **[Varsity Spirit](https://www.varsity.com/)** | **[Pro Cheer League Athlete](https://jobright.ai/jobs/info/68daf68d07c157682e570186?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Texas, United States | Remote | Dec 24 |
 | **[Knott's Berry Farm](http://www.knotts.com)** | **[Park Decor Tech](https://jobright.ai/jobs/info/693965a6ac80bb5492bbf3e4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Buena Park, CA | On Site | Dec 24 |
 | **[Gersh](https://gersh.com)** | **[Mailroom Floater](https://jobright.ai/jobs/info/694c75785d7312113470db48?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | NYC Metro Area | On Site | Dec 24 |
@@ -161,7 +162,6 @@ Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/692fe149ef4b48533d1495b6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chelmsford, MA | On Site | Dec 24 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Casting Contract Coordinator](https://jobright.ai/jobs/info/692fe6504c474121999e3158?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Burbank, CA | On Site | Dec 24 |
 | **[Bonobos](http://www.bonobos.com)** | **[Production Assistant](https://jobright.ai/jobs/info/692fb5704c474121999e1f67?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Dec 24 |
-| **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691cadba22a2cb4b9bd1c2ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Dec 24 |
 | **[International Paper](http://www.internationalpaper.com/)** | **[Production Associate/Utility](https://jobright.ai/jobs/info/692fa318fa28370be26ac5cb?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Plant City, FL | On Site | Dec 24 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[Assistant Editor (Temporary)](https://jobright.ai/jobs/info/694bb2fed64ebf28d82163b0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Dec 24 |
 | **[Swish Breaks](https://www.swishbreaks.com)** | **[On-Air Streaming Personality: Sports Cards](https://jobright.ai/jobs/info/694bb0a75d73121134703601?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, United States | On Site | Dec 24 |
@@ -224,5 +224,4 @@ Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_
 | ↳ | **[Stagehand - Mountain Winery](https://jobright.ai/jobs/info/681184c777535f12a250fd47?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Saratoga, CA | On Site | Dec 22 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Activities Assistant](https://jobright.ai/jobs/info/68ceea62fb49c96ca6ea4531?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Corinth, NY | On Site | Dec 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Producer](https://jobright.ai/jobs/info/6933a546f131d96e48465553?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Washington, DC | On Site | Dec 22 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Showcase Presenter](https://jobright.ai/jobs/info/689224d3f47efe211395a101?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Lahaina, HI | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
