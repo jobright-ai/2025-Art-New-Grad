@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michaels Stores](https://teachitpro.com)** | **[FRAMER PT](https://jobright.ai/jobs/info/69556443aa05c26e7aafc5ac?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Cuyahoga Falls-697 Howe Ave | On Site | Dec 31 |
 | **[Pilot Flying J](http://www.pilotflyingj.com)** | **[Deli Production Team Member](https://jobright.ai/jobs/info/69554096aa05c26e7aafa2a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Tonkawa, OK | On Site | Dec 31 |
 | **[Postmedia Network Inc.](http://www.postmedia.com)** | **[Video Producer](https://jobright.ai/jobs/info/69553d8bf1f8465b79ec545a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Calgary, Alberta, Canada | Remote | Dec 31 |
 | **[Momentum Worldwide](http://www.momentumww.com)** | **[Associate Experiential Producer](https://jobright.ai/jobs/info/693c814949a7695fbd034128?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | Hybrid | Dec 31 |
@@ -231,6 +232,6 @@ Hourly Rate: $18.00](https://jobright.ai/jobs/info/694f415e29655e4dd658be68?utm_
 | **[Centric Brands](https://centricbrands.com)** | **[Production Coordinator](https://jobright.ai/jobs/info/6913bb02e344172248f7397f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | New York, NY | On Site | Dec 25 |
 | **[TOPPAN Packaging Americas](https://packaging.toppan.com/)** | **[Press Assistant I](https://jobright.ai/jobs/info/6930c5f6fa28370be26b391b?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Dec 25 |
 | **[TEGNA](http://www.tegna.com)** | **[Prep Sports Journalist/Anchor](https://jobright.ai/jobs/info/691e09d5a49a885af9a23f73?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | KUSA KTVD-TV Denver | On Site | Dec 25 |
-| **[Level Agency](https://level.agency)** | **[Video Editor](https://jobright.ai/jobs/info/694ef28e29655e4dd658767d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | Dec 24 |
-| ↳ | **[Video Editor](https://jobright.ai/jobs/info/694ef292ce13cd1056572886?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Dec 24 |
+| **[Level Agency](https://level.agency)** | **[Video Editor](https://jobright.ai/jobs/info/694ef292ce13cd1056572886?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Dec 24 |
+| ↳ | **[Video Editor](https://jobright.ai/jobs/info/694ef28e29655e4dd658767d?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Canada | Remote | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
