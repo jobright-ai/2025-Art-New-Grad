@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walmart](http://www.walmart.com)** | **[Fashion Team Associate](https://jobright.ai/jobs/info/695a6fe2f1f8465b79f0c388?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Oskaloosa, IA | On Site | Jan 04 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[NewsNation Production Assistant, NNN - CHI (4p-7p) Weekend](https://jobright.ai/jobs/info/69211f87a49a885af9a43142?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Chicago, IL | On Site | Jan 04 |
+| **[Company 3](http://www.company3.com)** | **[VFX Compositor, Jr (General Submission)](https://jobright.ai/jobs/info/68eca25fd4b0106e703eb1bf?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Atlanta, GA | Remote | Jan 04 |
 | **[Cintas](https://www.cintas.com)** | **[Production Associate - Garment Hanger/Inspector - 2nd Shift](https://jobright.ai/jobs/info/69211d9900c9ee50eaecbcb4?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Yonkers, NY | On Site | Jan 04 |
 | ↳ | **[Production Associate - Garment/Linen/Bulk Product Folder - 2nd Shift](https://jobright.ai/jobs/info/6920d3af00c9ee50eaec86a7?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Sacramento, CA | On Site | Jan 04 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[Music and Comedy Touring - Assistant](https://jobright.ai/jobs/info/68cd31ceb2a74e1837ed3bc6?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Nashville, TN | On Site | Jan 04 |
@@ -89,7 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/69336de5f131d96e484633a8?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Blue Mound, TX | On Site | Jan 02 |
 | **[Kahlig Auto Group](https://www.kahligauto.com/)** | **[Make Ready Detailer](https://jobright.ai/jobs/info/69586b79aa05c26e7ab251d0?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | San Antonio, TX | On Site | Jan 02 |
 | **[EndeavorB2B](https://www.endeavorbusinessmedia.com/)** | **[Staff Writer](https://jobright.ai/jobs/info/6958696cf1f8465b79ef070f?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | United States | Remote | Jan 02 |
-| **[Carvana](http://www.carvana.com)** | **[Entry Level Automotive Detailer / Lot Attendant - 2nd Shift](https://jobright.ai/jobs/info/695868199f1b381eb2714b7c?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenfield, IN | On Site | Jan 02 |
+| **[Carvana](http://www.carvana.com)** | **[Entry Level Automotive Detailer / Lot Attendant - 2nd Shift](https://jobright.ai/jobs/info/69586531aa05c26e7ab23f16?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Greenfield, IN | On Site | Jan 02 |
 | **[Magna Legal Services](http://magnals.com)** | **[Maggie™ Court Reporter - Miami Dade County, FL](https://jobright.ai/jobs/info/6940b4cb49a7695fbd06361a?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Miami-Dade County, FL | Hybrid | Jan 02 |
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - Day Shift - Days Off: Sunday, Monday, & Tuesday](https://jobright.ai/jobs/info/695356685bb7de448ef66428?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Baltimore, MD | On Site | Jan 02 |
 | **[Goodwill Industries of Northwest NC](https://www.goodwillnwnc.org)** | **[Hanger/Textiles](https://jobright.ai/jobs/info/69585174aa05c26e7ab237fc?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Franklin, NC | On Site | Jan 02 |
@@ -232,5 +235,4 @@ For a complete list, click the following sortable link below:
 | **[Home Chef](https://www.homechef.com)** | **[Production Associate - 2nd Shift - Days Off: Saturday & Sunday](https://jobright.ai/jobs/info/6944682250bbaf7650566576?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Bedford Park, IL | On Site | Dec 29 |
 | **[Michaels Stores](https://teachitpro.com)** | **[Retail Customer Service - Events Coordinator - Party Host](https://jobright.ai/jobs/info/6951f941ce13cd1056597a16?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Riverhead-1440 Old Country Rd Ste 400 | On Site | Dec 28 |
 | **[Carvana](http://www.carvana.com)** | **[Entry-Level Automotive Detailer / Lot Attendant](https://jobright.ai/jobs/info/691cadba22a2cb4b9bd1c2ae?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Akron, NY | On Site | Dec 28 |
-| **[Michaels Stores](https://teachitpro.com)** | **[Part Time Framer - Service Team Member](https://jobright.ai/jobs/info/6951a5a5ce13cd10565944ce?utm_campaign=Arts%20and%20Entertainment&utm_source=1103)** | Petaluma-1359 N McDowell Blvd | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
